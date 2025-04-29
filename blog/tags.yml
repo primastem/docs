@@ -1,7 +1,7 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+primastem:
+  label: Primastem
+  permalink: /primastem
+  description: primastem tag description
 
 hello:
   label: Hello
@@ -13,7 +13,3 @@ docusaurus:
   permalink: /docusaurus
   description: Docusaurus tag description
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
