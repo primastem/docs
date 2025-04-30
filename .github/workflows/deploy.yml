@@ -1,0 +1,57 @@
+# .github/workflows/deploy.yml
+name: Deploy Docusaurus site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Или ваша основная ветка (master)
+  pull_request:
+    branches:
+      - main # Или ваша основная ветка (master)
+
+# Разрешения для GITHUB_TOKEN
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4 # Используйте последнюю версию
+        with:
+          fetch-depth: 0 # Нужно для git commit Docusaurus deploy
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4 # Используйте последнюю версию
+        with:
+          node-version: 18 # Или версия Node.js, которую вы используете
+          cache: 'npm' # Или 'yarn'
+
+      - name: Install dependencies
+        run: npm ci # Или yarn install --frozen-lockfile
+
+      - name: Build website
+        run: npm run build # Или yarn build
+
+      # Шаг ниже можно заменить на `npm run deploy`, если у вас настроен deploy key или GITHUB_TOKEN имеет права на запись
+      # Если используете `docusaurus deploy`, шаги configure-pages, upload-artifact, deploy-pages не нужны.
+      # Пример ниже использует стандартные GitHub Actions для Pages:
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4 # Используйте последнюю версию
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3 # Используйте последнюю версию
+        with:
+          # Загрузка из папки сборки Docusaurus
+          path: './build'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4 # Используйте последнюю версию
