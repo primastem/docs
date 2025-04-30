@@ -1,47 +1,87 @@
 ---
-sidebar_position: 1
+sidebar_label: 'Introduction'
+sidebar_position: 10
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 15 minutes**.
+**PrimaSTEM** is a tool for teaching children from age 4 the basics of programming, logic, and mathematics without screen devices.
 
-## Getting Started
+![PrimaSTEM](images/main_04.jpg)
 
-Get started by **creating a new site**.
+*Controller, programming blocks, robot, and program execution results.*
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Relevance
 
-### What you'll need
+**Modern children** from an early age show interest in video games and electronic devices, quickly mastering them.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Parents recognize the importance of information technology for the successful development of a child but also strive to maintain a balance between learning and children’s health.
 
-## Generate a new site
+![kids](images/kids.png)
 
-Generate a new Docusaurus site using the **classic template**.
+Research shows that early and frequent interaction with screens can reduce cognitive abilities and academic performance.
 
-The classic template will automatically be added to your project after you run the command:
+![graph](images/graph_2.jpg)
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+*Source: Programme for International Student Assessment (PISA), [2022 Results (Volume I)](https://www.oecd-ilibrary.org/education/pisa-2022-results-volume-i_53f23881-en)*
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Use of screen devices by younger children often leads to:
+- psychological difficulties,
+- gaming addiction,
+- impaired vision and physical health.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Goals and objectives
 
-## Start your site
+This educational **tool** helps children from age 4 learn programming, logic, and mathematics **without screens**.
 
-Run the development server:
+With PrimaSTEM, children learn:
+- numbers,
+- spatial orientation,
+- algorithms,
+- logical thinking,
+- programming fundamentals,
+- arithmetic operations and progressions,
+- geometric concepts.
 
-```bash
-cd my-website
-npm run start
-```
+**Advantages:**
+- versatility,
+- engaging and visual format,
+- screen-free learning,
+- suitable for preschool and young school-age children,
+- natural body materials.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+> 🎯 **Main goal** - development of cognitive skills through tangible and visual understanding of programming basics and the meaning of program execution results.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+## How does it work?
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+1. Switch on the robot and controller.
+2. Using command chips, compose a program by placing them in the controller's cells.
+3. Press the “Execute” button.
+4. The robot will perform the program.
+
+**Video presentation:**  
+[youtu.be/Ztq_I1WBiVo](https://youtu.be/Ztq_I1WBiVo)
+
+<iframe src="https://www.youtube.com/embed/Ztq_I1WBiVo?si=ZNSLpsCC8WlPB671" width="100%" height="315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Mathematical drawing using a variable and negative numbers:**  
+[youtu.be/6Zoyku27mO8](https://youtu.be/6Zoyku27mO8)
+
+<iframe src="https://www.youtube.com/embed/6Zoyku27mO8?si=WYYMKyV7d768DI-D" width="100%" height="315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Heart-shaped mathematical drawing:**  
+[youtu.be/VgiWu200EGw](https://youtu.be/VgiWu200EGw)
+
+<iframe src="https://www.youtube.com/embed/VgiWu200EGw?si=EiQKbP0egmZ2aXCa" width="100%" height="315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+> 📺  For more details, visit the [PrimaSTEM YouTube channel](https://www.youtube.com/@primastem)
+
+## Who is it for?
+
+PrimaSTEM is designed for children and looks like a game, but is a flexible tool for educators and parents. It can be used to teach various subjects - mathematics, programming, physics, history, geography. Everything is limited only by the imagination and skills of the teacher or parents.
+
+The child acquires mathematical and algorithmic foundations, serving as excellent preparation for school and a first experience with programming languages (Scratch, Logo, or Minecraft).
+
+![Spirale](images/robot_spiral_01.jpg)
+
+*Example result: a spiral drawn when dynamically changing a variable in a loop.*
