@@ -2,10 +2,17 @@
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
- */
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Comforter&family=Gidole&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=LXGW+WenKai+Mono+TC&family=Rubik+Doodle+Shadow&display=swap');
+
+h1 {
+  font-family: 'Amatic SC', sans-serif;
+}
 
 /* You can override the default Infima variables here. */
 :root {
+  --ifm-font-family-base: 'Gidole', sans-serif;
   --ifm-color-primary: #5aa02c;
   --ifm-color-primary-dark: #519028;
   --ifm-color-primary-darker: #4d8825;
@@ -19,6 +26,7 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
+  --ifm-font-family-base: 'Gidole', sans-serif;
   --ifm-color-primary: #5aa02c;
   --ifm-color-primary-dark: #519028;
   --ifm-color-primary-darker: #4d8825;
@@ -28,3 +36,4 @@
   --ifm-color-primary-lightest: #76ca3f;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+

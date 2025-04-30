@@ -18,7 +18,7 @@ const config = {
   url: 'https://primastem.github.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -76,7 +76,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'docs.primastem.com',
+        title: 'DOCS.PRIMASTEM.COM',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',
@@ -91,13 +91,13 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://primastem.github.io/update/',
-            label: 'Update firmware',
+            label: 'Update Firmware',
             position: 'left',
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Docs',
@@ -108,7 +108,7 @@ const config = {
               },
               {
                 href: 'https://primastem.github.io/update/',
-                label: 'Update firmware',
+                label: 'Update Firmware',
                 position: 'left',
               },
             ],
@@ -120,22 +120,14 @@ const config = {
                 label: 'Discord',
                 href: 'https://discordapp.com/invite/primastem',
               },
-              {
-                label: 'X',
-                href: 'https://x.com/primastem',
-              },
             ],
           },
           {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/primastem/docs',
+                label: 'PrimaSTEM.com',
+                href: 'https://primastem.com',
               },
             ],
           },

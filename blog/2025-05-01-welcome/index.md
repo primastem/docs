@@ -1,12 +1,10 @@
 ---
-title: Welcome
+title: Moving DOCS
 authors: [chanov]
-tags: [primastem, hello, docusaurus]
+tags: [hello, docusaurus]
 ---
 
-We posted our documentation on [Docusaurus](https://docusaurus.io) - open software. 
+We are moved our documentation on [Docusaurus](https://docusaurus.io) - opensource software. Hope that it will be convenient for use.
 
 ![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
 
-We hope that it will be convenient for use.
-<!-- truncate -->
