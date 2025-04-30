@@ -62,17 +62,17 @@ With PrimaSTEM, children learn:
 **Video presentation:**  
 [youtu.be/Ztq_I1WBiVo](https://youtu.be/Ztq_I1WBiVo)
 
-<iframe src="https://www.youtube.com/embed/Ztq_I1WBiVo?si=ZNSLpsCC8WlPB671" width="100%" height="315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Ztq_I1WBiVo?si=ZNSLpsCC8WlPB671" width="100%" height="650" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Mathematical drawing using a variable and negative numbers:**  
 [youtu.be/6Zoyku27mO8](https://youtu.be/6Zoyku27mO8)
 
-<iframe src="https://www.youtube.com/embed/6Zoyku27mO8?si=WYYMKyV7d768DI-D" width="100%" height="315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/6Zoyku27mO8?si=WYYMKyV7d768DI-D" width="100%" height="650" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Heart-shaped mathematical drawing:**  
 [youtu.be/VgiWu200EGw](https://youtu.be/VgiWu200EGw)
 
-<iframe src="https://www.youtube.com/embed/VgiWu200EGw?si=EiQKbP0egmZ2aXCa" width="100%" height="315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/VgiWu200EGw?si=EiQKbP0egmZ2aXCa" width="100%" height="650" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > 📺  For more details, visit the [PrimaSTEM YouTube channel](https://www.youtube.com/@primastem)
 

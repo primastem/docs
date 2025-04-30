@@ -31,7 +31,7 @@ Effective applications in the following educational programs:
 
 ### What Should You Know to Start?
 
-Before using the set, we recommend teachers and parents read the [user manual](/ru/instrukciya.md) and this guide. No special programming skills are required-the materials provide the foundation needed for teaching.
+Before using the set, we recommend teachers and parents read the [user manual](user_manual.md) and this guide. No special programming skills are required-the materials provide the foundation needed for teaching.
 
 ## Research and Value of the Set
 
@@ -312,7 +312,7 @@ Using such operations in a loop lets you create progressions.
 
 Available: addition (+), subtraction (−), multiplication (*), division (/), root (√), power (^).
 
-Pattern examples are shown on the [mathematical drawings page](/ru/math_drawings_ru).
+Pattern examples are shown on the [mathematical drawings page](math_drawings.md).
 
 ---
 
@@ -320,4 +320,4 @@ Pattern examples are shown on the [mathematical drawings page](/ru/math_drawings
 
 You know your students best. PrimaSTEM is a universal tool for playful learning. Use it to teach programming, logic and other subjects. Everything depends on your imagination!
 
-p/s: Thank you for using PrimaSTEM and for your interest! We look forward to your feedback: [write to us](/ru/contacts.md) about your experience and impressions.
+p/s: Thank you for using PrimaSTEM and for your interest! We look forward to your feedback: [write to us](contacts.md) about your experience and impressions.
