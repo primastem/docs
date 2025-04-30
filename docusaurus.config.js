@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://primastem.github.com/',
+  url: 'https://primastem.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/docs/',
@@ -25,7 +25,7 @@ const config = {
   organizationName: 'primastem', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
   
-  trailingSlash: false,
+  // trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
