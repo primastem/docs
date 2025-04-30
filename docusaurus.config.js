@@ -102,15 +102,11 @@ const config = {
         style: 'light',
         links: [
           {
-            title: 'Docs',
+            title: 'Main',
             items: [
               {
                 label: 'Documentation',
                 to: '/docs/intro',
-              },
-              {
-                href: 'https://primastem.github.io/update/',
-                label: 'Update Firmware',
                 position: 'left',
               },
             ],
@@ -121,6 +117,7 @@ const config = {
               {
                 label: 'Discord',
                 href: 'https://discord.gg/QRZWtpdBQd',
+                position: 'left',
               },
             ],
           },
@@ -130,6 +127,7 @@ const config = {
               {
                 label: 'PrimaSTEM.com',
                 href: 'https://primastem.com',
+                position: 'left',
               },
             ],
           },
