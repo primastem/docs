@@ -1,0 +1,15 @@
+primastem:
+  label: Primastem
+  permalink: /primastem
+  description: primastem tag description
+
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+

@@ -35,7 +35,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'fr', 'ru'],
   },
 
   presets: [
@@ -95,6 +95,10 @@ const config = {
             href: 'https://primastem.github.io/update/',
             label: 'Update Firmware',
             position: 'left',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
           },
         ],
       },
