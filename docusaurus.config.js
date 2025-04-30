@@ -34,9 +34,14 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
+    path: 'i18n',
     defaultLocale: 'en',
     locales: ['en', 'fr', 'ru'],
+    localeConfigs: {
+      en: { label: 'English',},
+      fr: { label: 'Français',}
   },
+},
 
   presets: [
     [
@@ -70,6 +75,7 @@ const config = {
         },
       }),
     ],
+    '@docusaurus/preset-classic'
   ],
 
   themeConfig:
@@ -144,6 +150,7 @@ const config = {
       },
     }),
 };
+
 
 export default config;
 
