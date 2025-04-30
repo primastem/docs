@@ -290,7 +290,7 @@ If a command is used without a new value, the last saved value is applied until 
 Setting a new value changes the default parameter.
 Default values (100 mm and 90°) can be restored by setting them explicitly or restarting the controller.
 
-Changing parameters enables more complex trajectories and movement scenarios. See examples on the [mathematical drawings page](/ru/math_drawings_ru).
+Changing parameters enables more complex trajectories and movement scenarios. See examples on the [mathematical drawings page](math_drawings.md).
 
 ## 8 – Arithmetic
 
