@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'docs.primastem.com',
-  tagline: 'Documentation @ PrimaSTEM project',
+  title: 'docs.PrimaSTEM.com',
+  tagline: 'Documentation @ PrimaSTEM',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -78,7 +78,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'DOCS.PRIMASTEM.COM',
+        title: 'docs.PrimaSTEM.com',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',
