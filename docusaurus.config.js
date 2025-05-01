@@ -60,7 +60,6 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          onUntruncatedBlogPosts: 'ignore',
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
