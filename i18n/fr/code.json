@@ -309,5 +309,8 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "Open documentation": {
+    "message": "Documentation ouverte"
   }
 }
