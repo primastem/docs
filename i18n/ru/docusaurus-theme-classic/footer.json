@@ -1,18 +1,18 @@
 {
   "link.title.Main": {
-    "message": "Main",
+    "message": "Главное",
     "description": "The title of the footer links column with title=Main in the footer"
   },
   "link.title.Community": {
-    "message": "Community",
+    "message": "Сообщество",
     "description": "The title of the footer links column with title=Community in the footer"
   },
   "link.title.More": {
-    "message": "More",
+    "message": "Что ещё",
     "description": "The title of the footer links column with title=More in the footer"
   },
   "link.item.label.Documentation": {
-    "message": "Documentation",
+    "message": "Документация",
     "description": "The label of footer link with label=Documentation linking to /docs/intro"
   },
   "link.item.label.Discord": {

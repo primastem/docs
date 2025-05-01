@@ -16,13 +16,24 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
+        <p>
+          <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
             Open documentation
           </Link>
         </div>
+        </p>
+        <p>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/fr/docs/intro">
+            Français
+          </Link>
+        </div>
+        </p>
       </div>
     </header>
   );
