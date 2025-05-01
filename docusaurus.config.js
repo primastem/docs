@@ -29,7 +29,6 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
 //   onBrokenLinks: 'ignore',
 //   onBrokenMarkdownLinks: 'ignore',
 
@@ -61,6 +60,7 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          onUntruncatedBlogPosts: 'ignore',
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,

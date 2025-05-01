@@ -17,7 +17,7 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle"><Translate>Documentation @ PrimaSTEM</Translate></p>
         <p>
           <div className={styles.buttons}>
           <Link
