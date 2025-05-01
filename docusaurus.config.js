@@ -30,16 +30,21 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+//   onBrokenLinks: 'ignore',
+//   onBrokenMarkdownLinks: 'ignore',
+
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
+
   i18n: {
     path: 'i18n',
     defaultLocale: 'en',
     locales: ['en', 'fr', 'ru'],
     localeConfigs: {
       en: { label: 'English',},
-      fr: { label: 'Français',}
+      fr: { label: 'Français',},
+      ru: { label: 'Русский',}
   },
 },
 
@@ -75,7 +80,6 @@ const config = {
         },
       }),
     ],
-    '@docusaurus/preset-classic'
   ],
 
   themeConfig:
