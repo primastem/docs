@@ -1,0 +1,30 @@
+{
+  "link.title.Main": {
+    "message": "Main",
+    "description": "The title of the footer links column with title=Main in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Documentation": {
+    "message": "Documentation",
+    "description": "The label of footer link with label=Documentation linking to /docs/intro"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.gg/QRZWtpdBQd"
+  },
+  "link.item.label.PrimaSTEM.com": {
+    "message": "PrimaSTEM.com",
+    "description": "The label of footer link with label=PrimaSTEM.com linking to https://primastem.com"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 PrimaSTEM. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}
