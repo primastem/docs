@@ -95,7 +95,7 @@ const config = {
           dark: 'rgb(50, 50, 50)'
       },
       config: {
-        margin: '10'
+        margin: '0'
         // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
       }
     },
