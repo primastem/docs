@@ -5,83 +5,82 @@ sidebar_position: 10
 
 # Introduction
 
-**PrimaSTEM** is a tool for teaching children from age 4 the basics of programming, logic, and mathematics without screen devices.
+**PrimaSTEM** - un outil pour enseigner aux enfants dès 4 ans les bases de la programmation, de la logique et des mathématiques sans appareils à écran.
 
 ![PrimaSTEM](images/main_04.jpg)
 
-*Controller, programming blocks, robot, and program execution results.*
+*Télécommande, blocs de programmation, robot et résultats d'exécution du code.*
 
-## Relevance
+## Pertinence
 
-**Modern children** from an early age show interest in video games and electronic devices, quickly mastering them.
+**Les enfants d'aujourd'hui** manifestent très tôt un intérêt pour les jeux vidéo et les appareils électroniques, qu'ils maîtrisent rapidement.
 
-Parents recognize the importance of information technology for the successful development of a child but also strive to maintain a balance between learning and children’s health.
+Les parents comprennent l'importance des technologies de l'information pour le développement réussi de leur enfant, tout en cherchant à maintenir un équilibre entre apprentissage et santé.
 
 ![kids](images/kids.png)
 
-Research shows that early and frequent interaction with screens can reduce cognitive abilities and academic performance.
+Les études montrent qu'une interaction précoce et fréquente avec les écrans peut réduire les capacités cognitives et les performances scolaires.
 
 ![graph](images/graph_2.jpg)
 
-*Source: Programme for International Student Assessment (PISA), [2022 Results (Volume I)](https://www.oecd-ilibrary.org/education/pisa-2022-results-volume-i_53f23881-en)*
+*Source : Programme international pour le suivi des acquis des élèves (PISA), [2022 Results (Volume I)](https://www.oecd-ilibrary.org/education/pisa-2022-results-volume-i_53f23881-en)*
 
-Use of screen devices by younger children often leads to:
-- psychological difficulties,
-- gaming addiction,
-- impaired vision and physical health.
+L'utilisation d'appareils à écran par les jeunes enfants entraîne souvent :
+- des difficultés psychologiques,
+- une dépendance aux jeux,
+- une détérioration de la vue et de la santé physique.
 
-## Goals and objectives
+## Objectifs
 
-This educational **tool** helps children from age 4 learn programming, logic, and mathematics **without screens**.
+Cet **outil** ludique aide les enfants dès 4 ans à apprendre la programmation, la logique et les mathématiques **sans écrans**.
 
-With PrimaSTEM, children learn:
-- numbers,
-- spatial orientation,
-- algorithms,
-- logical thinking,
-- programming fundamentals,
-- arithmetic operations and progressions,
-- geometric concepts.
+PrimaSTEM permet d'acquérir :
+- les nombres,
+- l'orientation spatiale,
+- les algorithmes,
+- la pensée logique,
+- les bases de la programmation,
+- les opérations arithmétiques et progressions,
+- les concepts géométriques.
 
-**Advantages:**
-- versatility,
-- engaging and visual format,
-- screen-free learning,
-- suitable for preschool and young school-age children,
-- natural body materials.
+**Avantages :**
+- application universelle,
+- format intéressant et visuel,
+- apprentissage sans écrans,
+- adapté aux enfants d'âge préscolaire et primaire,
+- matériaux naturels.
 
-> 🎯 **Main goal** - development of cognitive skills through tangible and visual understanding of programming basics and the meaning of program execution results.
+> 🎯 **L'objectif principal** - développer les compétences cognitives grâce à une compréhension tangible et visuelle des principes de programmation et du résultat d'exécution des programmes.
 
-## How does it work?
+## Comment ça marche ?
 
-1. Switch on the robot and controller.
-2. Using command chips, compose a program by placing them in the controller's cells.
-3. Press the “Execute” button.
-4. The robot will perform the program.
+1. Allumez le robot et la télécommande.
+2. Créez un programme en plaçant les jetons-commandes dans les emplacements de la télécommande.
+3. Appuyez sur le bouton « Exécuter ».
+4. Le robot exécutera le programme.
 
-**Video presentation:**  
-[youtu.be/Ztq_I1WBiVo](https://youtu.be/Ztq_I1WBiVo)
+---
 
-<iframe src="https://www.youtube.com/embed/Ztq_I1WBiVo?si=ZNSLpsCC8WlPB671" width="600" height="450" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**Présentation vidéo :** [youtu.be/Ztq_I1WBiVo](https://youtu.be/Ztq_I1WBiVo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ztq_I1WBiVo?si=a54tevy8tUEQMOva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
 
-**Mathematical drawing using a variable and negative numbers:**  
-[youtu.be/6Zoyku27mO8](https://youtu.be/6Zoyku27mO8)
+**Dessin mathématique utilisant une variable et des nombres négatifs :** [youtu.be/6Zoyku27mO8](https://youtu.be/6Zoyku27mO8)
+<iframe width="560" height="315"  src="https://www.youtube.com/embed/6Zoyku27mO8?si=WYYMKyV7d768DI-D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
 
-<iframe src="https://www.youtube.com/embed/6Zoyku27mO8?si=WYYMKyV7d768DI-D" width="600" height="450" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**Dessin mathématique d'un cœur :** [youtu.be/VgiWu200EGw](https://youtu.be/VgiWu200EGw)
+<iframe  width="560" height="315" src="https://www.youtube.com/embed/VgiWu200EGw?si=EiQKbP0egmZ2aXCa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
 
-**Heart-shaped mathematical drawing:**  
-[youtu.be/VgiWu200EGw](https://youtu.be/VgiWu200EGw)
+> 📺  En savoir plus sur la chaîne [YouTube PrimaSTEM](https://www.youtube.com/@primastem)
 
-<iframe src="https://www.youtube.com/embed/VgiWu200EGw?si=EiQKbP0egmZ2aXCa" width="600" height="450" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## À qui est-ce destiné ?
 
-> 📺  For more details, visit the [PrimaSTEM YouTube channel](https://www.youtube.com/@primastem)
+PrimaSTEM est conçu pour les enfants et ressemble à un jeu, mais c'est un outil flexible pour les enseignants et les parents. Il peut être utilisé pour enseigner diverses matières - mathématiques, programmation, physique, histoire, géographie. Tout est limité uniquement par l'imagination et les compétences de l'enseignant ou des parents.
 
-## Who is it for?
-
-PrimaSTEM is designed for children and looks like a game, but is a flexible tool for educators and parents. It can be used to teach various subjects - mathematics, programming, physics, history, geography. Everything is limited only by the imagination and skills of the teacher or parents.
-
-The child acquires mathematical and algorithmic foundations, serving as excellent preparation for school and a first experience with programming languages (Scratch, Logo, or Minecraft).
+L'enfant acquiert des bases mathématiques et algorithmiques, ce qui constitue une excellente préparation pour l'école et la première expérience avec les langages de programmation (Scratch, Logo ou Minecraft).
 
 ![Spirale](images/robot_spiral_01.jpg)
 
-*Example result: a spiral drawn when dynamically changing a variable in a loop.*
+*Exemple de résultat : spirale dessinée en modifiant dynamiquement une variable dans une boucle.*

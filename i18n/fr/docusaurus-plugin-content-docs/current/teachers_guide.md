@@ -1,323 +1,318 @@
 ---
-sidebar_label: 'Teacher’s Guide'
+sidebar_label: 'Guide de l’enseignant'
 sidebar_position: 30
 ---
 
-# Teacher’s Guide
+# Guide de l’enseignant
 
-This guide describes the features of the PrimaSTEM set required for creating lessons and integrating it into the educational process.
+Ce guide décrit les fonctionnalités du kit PrimaSTEM nécessaires à la création de leçons et à son utilisation dans le processus éducatif.
 
-PrimaSTEM is an educational toy for children aged 4–12 that helps them learn to program a friendly robot without computers, tablets, or phones. It develops logic, programming skills, and mathematics.
+PrimaSTEM est un jeu éducatif pour les enfants de 4 à 12 ans, conçu pour leur apprendre la programmation d’un robot sympathique sans ordinateurs, tablettes ou smartphones. Il développe la logique, les compétences en programmation et les bases des mathématiques.
 
-Lessons with PrimaSTEM make programming simple and visual for children. Even very young learners find the process clear and tactile-the basics of programming, logic, and mathematics are learned in a playful form.
+Les activités avec PrimaSTEM rendent la programmation simple et visuelle. Même pour les plus petits, ce processus devient compréhensible et tactile : les principes de programmation, de logique et de mathématiques sont assimilés sous forme de jeu.
 
-Playing with PrimaSTEM fosters the development of key skills: logical thinking, algorithms, programming, mathematics, geometry, as well as creative and social-emotional development.
-The PrimaSTEM set is a preparatory stage to getting acquainted with block-based programming languages such as [Scratch](https://en.wikipedia.org/wiki/Scratch_(programming_language)) or [LOGO](https://en.wikipedia.org/wiki/Logo_(programming_language)).
+Le jeu avec PrimaSTEM encourage le développement de compétences clés : pensée logique, algorithmique, programmation, mathématiques, géométrie, ainsi que le développement créatif et socio-émotionnel.
+Le kit PrimaSTEM constitue une étape préparatoire idéale pour se familiariser avec les langages de programmation par blocs, tels que [Scratch](https://en.wikipedia.org/wiki/Scratch_(programming_language)) ou [LOGO](https://en.wikipedia.org/wiki/Logo_(programming_language)).
 
-## Getting Acquainted With the Educational Set
+## Présentation du kit éducatif
 
-### Where Can PrimaSTEM Be Used?
+### Où utiliser PrimaSTEM ?
 
-Effective applications in the following educational programs:
+Il est adapté aux programmes éducatifs suivants :
 
-- Early childhood education centers
-- Montessori kindergartens
-- Primary schools
-- Homeschooling
-- Special development centers
-- After-school groups
-- Introductory programming clubs
-- Children’s educational camps
+- Centres d’éducation préscolaire
+- Écoles maternelles utilisant la méthode Montessori
+- Écoles élémentaires
+- Enseignement à domicile
+- Centres de développement spécialisés
+- Groupes périscolaires
+- Clubs d’initiation à la programmation
+- Camps éducatifs pour enfants
 
-### What Should You Know to Start?
+### Que faut-il savoir pour commencer ?
 
-Before using the set, we recommend teachers and parents read the [user manual](user_manual.md) and this guide. No special programming skills are required-the materials provide the foundation needed for teaching.
+Avant de l’utiliser, il est recommandé aux enseignants et parents de se familiariser avec le [manuel d’utilisation](user_manual.md) ainsi que ce guide. Aucune compétence préalable en programmation n’est requise – les supports fournissent toutes les bases nécessaires pour débuter.
 
-## Research and Value of the Set
+## Recherches et valeur pédagogique
 
-PrimaSTEM is inspired by the [LOGO](https://en.wikipedia.org/wiki/Logo_(programming_language)) programming language, created by [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert), and Montessori pedagogy. LOGO and the turtle robot made programming visual and accessible for children.
+PrimaSTEM s’inspire du langage de programmation [LOGO](https://en.wikipedia.org/wiki/Logo_(programming_language)) créé par [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) et de la pédagogie Montessori. LOGO et le robot-tortue ont rendu la programmation accessible et intuitive pour les enfants.
 
 ![main brif](images/mainbrif_03.jpg)
 
-PrimaSTEM command chips implement this approach. Learning becomes intuitive through simple tactile control, requiring no screens or text.
+Les blocs de commande PrimaSTEM concrétisent cette approche. L’apprentissage devient intuitif grâce à un contrôle tactile, sans écran ni texte.
 
-By observing the robot, children learn the meaning of each command by practicing algorithms in real time.
+En observant le robot, les enfants comprennent chaque commande et assimilent les algorithmes par la pratique.
 
-The robot has an important feature: it has direction, which allows a child to identify with it and more easily understand the fundamental logic of how programs work.
+Le robot dispose d’une orientation, ce qui permet à l’enfant de s’identifier à lui et de mieux comprendre la logique fondamentale des programmes.
 
-All commands are simple and clear: they indicate exactly which direction the robot should move. Teaching the robot to “act” or “think” encourages children to reflect on their own actions and thoughts, making the process of learning programming more effective.
+Toutes les commandes sont simples et précises : elles indiquent exactement dans quelle direction le robot doit se déplacer. Apprendre à faire « agir » ou « penser » le robot aide l’enfant à réfléchir à ses propres actions et raisonnements, rendant le processus d’apprentissage plus efficace.
 
-PrimaSTEM chips are a visual and simplified representation of programming languages. At the start of learning there is no text or numbers-only basic commands.
+Les blocs PrimaSTEM offrent une représentation visuelle simplifiée des langages de programmation. Au début de l’apprentissage, aucun texte ni chiffre, mais seulement des commandes de base.
 
-### Why Wood?
+### Pourquoi le bois ?
 
-The controller and robot are made of wood. Practice has shown that children prefer playing with wooden toys-they are safe, durable, and create a sense of personal history in use.
+La télécommande et le robot sont en bois. En pratique, les enfants apprécient davantage jouer avec des jouets en bois : ils sont sûrs, durables et chaque enfant s’approprie son histoire d’utilisation.
 
-## Programming Concepts With PrimaSTEM
+## Concepts de programmation avec PrimaSTEM
 
-PrimaSTEM’s physical chips are analogous to instructions in real programming languages, demonstrating important concepts.
+Les blocs physiques PrimaSTEM sont analogues aux instructions des langages de programmation, et illustrent les notions fondamentales.
 
-### Algorithms
+### Algorithmes
 
-**Algorithms** are sequences of precise commands (chips) that make up a program.
+**Algorithme** : séquence précise de commandes (blocs) qui constitue un programme.
 
-### Queue
+### File d'attente
 
-Commands on the PrimaSTEM controller are executed strictly from left to right, visually demonstrating execution order.
+Les commandes sur la télécommande PrimaSTEM sont exécutées strictement de gauche à droite, illustrant clairement la notion de file d’attente d’exécution.
 
-### Debugging (Error Correction)
+### Correction d’erreurs (Débogage)
 
-Mistakes are easy to correct: simply replace a chip. This approach develops independent debugging skills.
+Corriger une erreur est simple : il suffit de remplacer le bloc. Cela développe l’autonomie dans la correction des programmes.
 
-### Function
+### Fonction
 
-A function (subprogram) is a set of commands in the lower part of the controller, called from the main program using the “**Function**” chip.
+Une fonction (sous-programme) est un ensemble de commandes dans la partie inférieure de la télécommande, appelée depuis le programme principal à l’aide du bloc « **Fonction** ».
 
-## Application in Other Subjects
+## Application sur d’autres matières
 
-PrimaSTEM also helps develop other skills:
+PrimaSTEM favorise également l’apprentissage d’autres compétences :
 
-- **Communication**: Group play fosters collaboration.
-- **Motor skills**: Working with chips improves coordination.
-- **Social skills**: Children gain confidence and learn teamwork.
-- **Mathematics**: Basic mathematical concepts are mastered.
-- **Logic**: Children learn to construct sequences and predict outcomes.
+- **Communication** : Le jeu en groupe encourage la coopération.
+- **Motricité** : Manipuler les blocs améliore la coordination.
+- **Compétences sociales** : Les enfants gagnent en confiance et apprennent à résoudre des problèmes ensemble.
+- **Mathématiques** : Assimilation des notions de base.
+- **Logique** : Apprentissage des séquences et de l’anticipation des résultats.
 
-> By arranging chips, the child explores programming in a tactile, visual, and intellectual way. After pressing the “Execute” button, the robot moves, and the result is compared to the child’s expectation. This comprehensive experience accelerates learning.
+> En assemblant une chaîne de blocs, l’enfant découvre la programmation de manière tactile, visuelle et intellectuelle. Après avoir appuyé sur « Exécuter », le robot se déplace et l’enfant compare le résultat à ses attentes, renforçant ainsi l’apprentissage.
 
-## Getting to Know the Robot and Controller
+## Découverte du robot et de la télécommande
 
-### Robot
+### Le robot
 
-Tell the children that the robot is their friend, which they can program. Explain: it has no thoughts of its own and only performs their instructions-like household appliances that require turning on.
+Présentez le robot comme un compagnon à programmer. Expliquez qu'il n’a pas de volonté propre et ne suit que les consignes données – comme un appareil électroménager que l’on doit allumer.
 
 ![robot](images/robot.excalidraw.svg)
 
-### Controller
+### La télécommande
 
-Explain that the controller sends commands to the robot. Show how to insert command chips and program the robot.
+Expliquez que la télécommande transmet les commandes au robot. Montrez comment insérer les blocs et programmer le robot.
 
 ![control](images/control.excalidraw.svg)
 
-> The main program is constructed in the upper row of the controller (6 slots). The lower row (5 slots) is for the subprogram/function and used with the “**Function**” command.
+> Le programme principal est construit sur la rangée supérieure de la télécommande (6 cases). La rangée inférieure (5 cases) est destinée à la sous-programme/fonction, accessible via le bloc « **Fonction** ».
 
-### Command Chips
+### Blocs de commande
 
-Chips are commands for the robot that are inserted into the controller. After pressing “Execute,” the robot performs the sequence. Each chip is a separate command, which teaches computational thinking and program design. It is important for children to understand what the robot does when each command is activated-this teaches them to plan programs and predict the robot’s actions. Tell children: chips should not be lost or damaged-without them, the robot cannot move.
+Les blocs représentent les instructions pour le robot, insérées dans la télécommande. Après avoir appuyé sur « Exécuter », le robot exécute la séquence. Chaque bloc est une commande, initiant l’enfant à la pensée informatique et à la conception de programmes. Il est essentiel que l’enfant comprenne l’effet de chaque commande sur le robot. Expliquez que les blocs sont indispensables : sans eux, le robot ne fonctionnera pas.
 
-## 1 – The First Program
+## 1 - Premier programme
 
-### Cause and Effect
+### Cause à effet
 
-The main goal is to show children the connection between a command and an action. Let the child insert a “Forward” chip in the first controller slot and press “Execute.” The child should observe the correspondence between chip and action.
+L’objectif principal est d’illustrer la relation entre commande et résultat. Faites insérer le bloc « Avancer » dans la première case et appuyez sur « Exécuter ». L’enfant observe la correspondance entre la commande et l’action.
 
 ![forvard](images/guide1a.excalidraw.svg)
 
-### Clear Instructions
+### Instructions explicites
 
-Repeat with each direction (**forward**, turn **left**, turn **right**) until the child recognizes each chip.
+Répétez l’exercice avec chaque direction (**avancer**, tourner à **gauche**, tourner à **droite**) jusqu’à ce que l’enfant identifie chaque bloc.
 
-### The First Task
+### Première tâche
 
-Lay out the playing field or create a 10×10 cm grid using tape or marker. Place the robot on the starting square. Ask the child to compose a program to move forward by one cell. If the wrong chip is used, return the robot and invite the child to reflect and try again.
+Installez un tapis de jeu ou tracez une grille de 10×10 cm avec du ruban ou un marqueur. Placez le robot sur la case de départ. Demandez à l’enfant de créer un programme pour avancer d’une case. Si le mauvais bloc est utilisé, replacez le robot et encouragez-le à trouver une nouvelle solution.
 
-## 2 – Program and Debugging
+## 2 - Programme et débogage
 
-### Sequence of Events
+### Suite d’événements
 
-Set the goal two cells in front of the robot.
+Placez la cible deux cases devant le robot.
 
 ![task-forvard*2](images/guide2d.excalidraw.svg)
 
-Have the child compose a program of two chips to reach the goal.
+L’enfant doit écrire un programme de deux blocs pour atteindre la cible.
 
 ![forvard*2](images/guide2a.excalidraw.svg)
 
-### Sequence of Three Chips
+### Séquence de trois blocs
 
-This time, the goal is one cell in front and one to the right.
+Nouvelle cible : une case devant et une à droite.
 
 ![task-forvard-right-forvard](images/guide2e.excalidraw.svg)
 
-Invite the child to select the correct sequence of commands.
+L’enfant élabore la séquence correcte de commandes.
 
 ![forvard-right-forvard](images/guide2b.excalidraw.svg)
 
-Don’t worry if the child chooses the wrong chip. Just return the robot to its starting position and suggest reasoning about the choice and trying again.
+S’il se trompe, replacez le robot et incitez-le à réfléchir au bon choix.
 
-### Debugging-Finding the Error
+### Débogage – identifier l’erreur
 
-Set a destination one square ahead and one square to the left of the robot.
+Placez la cible une case devant et une à gauche du robot.
 
 ![task-forvard-left-forvard](images/guide2f.excalidraw.svg)
 
-This time, create a program by purposely inserting a wrong turn into the sequence.
+Créez intentionnellement une erreur dans la séquence et demandez à l’enfant de la prédire, puis de tester le résultat avec « **Exécuter** ».
 
-![forvard-right-forvard](images/guide2b.excalidraw.svg)
-
-Ask the child to predict which command in the program is incorrect, and to predict the wrong result, then allow them to press “**Execute**” to check the assumption.
-
-After the child realizes the sequence was incorrect-either by reasoning or by checking-let them change the wrong command to the correct one, thereby debugging the program.
-
+Une fois constatée l’erreur, laissez-le la corriger et affiner son programme, favorisant ainsi l’auto-correction.  
 ![forvard-left-forvard](images/guide2с.excalidraw.svg)
 
-## 3 – Program With Function
+## 3 - Programme avec Fonction
 
-### The “Function” Command
+### Commande « Fonction »
 
-Once the basic commands are mastered, introduce the **Function** command chip. This is a repeatable set of commands that can be called from the main program.
+Lorsque les commandes de base sont acquises, présentez le bloc « **Fonction** ». Celui-ci appelle une séquence répétitive de commandes stockées dans la rangée inférieure.
 
-> You can use the metaphor of a tower (other commands are stacked under the function chip) to explain that you can put more instructions inside a single chip.
+> Pour l’expliquer, comparez cette notion à une « tour » de blocs – la fonction regroupe plusieurs instructions dans un bloc unique.
 
-Show an example: first, place two “Forward” chips in the top slots and run the program-the robot moves two cells.
+Montrez l’exemple : insérez deux blocs « Avancer » dans la rangée supérieure et exécutez – le robot avance de deux cases.
 
 ![forvard*2](images/guide3a.excalidraw.svg)
 
-Now, place the same two “Forward” chips in the function (bottom row), and in the main program, use “Function.” The result is the same, but now part of the program is hidden in the subprogram.
+Ensuite, placez ces deux blocs dans la fonction (rangée inférieure) et utilisez « Fonction » dans le programme principal. Le résultat est identique, mais la séquence est désormais encapsulée.
 
 ![function-forvard*2](images/guide3b.excalidraw.svg)
 
-Next, create the sequence: **Forward – Forward – Right – Forward – Forward**.
+Créez ensuite la séquence : **Avancer – Avancer – Droite – Avancer – Avancer**.
 
 ![forvard*2-right-forvard*2](images/guide3c.excalidraw.svg)
 
-Ask the children to find repeating sections and “hide” them in a function. The final sequence: in the main section-**Function – Right – Function**; at the bottom-**Forward – Forward**.
+Demandez aux enfants de repérer la répétition et de la « cacher » dans la fonction. Résultat final : dans le programme principal – **Fonction – Droite – Fonction**, dans la fonction – **Avancer – Avancer**.
 
 ![function-right-function](images/guide3d.excalidraw.svg)
 
-### Solving Tasks With Function
+### Résolution d’exercices avec fonction
 
-Give the child three “**Forward**” chips and two “**Function**” chips.
+Donnez à l’enfant 3 blocs « **Avancer** » et 2 « **Fonction** ».
 
 ![chip-forwards-functions](images/guide3e.excalidraw.svg)
 
-The task is to move forward five squares.
+But : avancer de 5 cases.
 
 ![goal-5step](images/guide3f.excalidraw.svg)
 
-Let the child realize that a function must be used for repeated actions to solve this task.
+L’enfant doit utiliser la fonction pour répéter l’action plusieurs fois.
 
-If the sequence is wrong, just return the robot and suggest reasoning about a correct solution and trying again.
+En cas d’erreur, replacez le robot et laissez-le réfléchir à d’autres options.
 
 ![function-task](images/guide3g.excalidraw.svg)
 
-## 4 – Randomness
+## 4 - Aléatoire
 
-### The “Random Direction” Command
+### Commande « Déplacement aléatoire »
 
-To introduce the idea of randomness, take three direction chips: “**Forward**,” “**Left**,” and “**Right**,” put them in an opaque box or bag, mix them, and ask the children to draw one without looking and show it to the group, then return it. Explain the concept of randomness among three outcomes with this example.
+Pour introduire la notion d’aléa, placez 3 blocs de direction (« **Avancer** », « **Gauche** », « **Droite** ») dans une boîte opaque. Laissez les enfants tirer au hasard et les montrer au groupe, puis remettez-les en place. Expliquez la notion d’aléa à partir de cet exercice.
 
-Next, show the “**Random Direction**” command chip-the picture on the chip repeats all three direction chips.
+Présentez le bloc « **Déplacement aléatoire** », dont le pictogramme reprend les trois directions.
 
-Explain that this chip does almost what they did previously by drawing chips from the bag: it randomly selects one of three commands for the robot and then moves it by one logical step-one cell. That is, the robot can move forward, right, or left by one cell.
+Expliquez que ce bloc permet, comme l’exercice précédent, de choisir au hasard une des trois commandes et de déplacer le robot d’une case.
 
-Place the “**Random Command**” chip in the top slot and run the program several times-the robot will move differently each time.
+Placez « **Déplacement aléatoire** » en première case et lancez plusieurs fois le programme – les déplacements seront différents à chaque essai.
 
 ![rnd-move](images/guide4a.excalidraw.svg)
 
-Play with the children: let them guess where the robot will go before running the command.
+Laissez les enfants deviner la direction prise par le robot avant chaque exécution.
 
-Emphasize that this is **randomness** and it’s not always possible to guess the direction.
+Soulignez que c’est le hasard : il est impossible de le deviner à coup sûr.
 
-Try making a small game with the “**Random Command**” chip with the children.
+Organisez un petit jeu basé sur cette fonctionnalité.
 
-## 5 – Loops (Command Repeats)
+## 5 - Boucles (répétitions)
 
-### Getting to Know Numeric Loops
+### Introduction aux boucles numériques
 
-Show the children value chips, ask if they know numbers, have ever seen dice for board games, or played such games.
+Montrez les blocs de valeurs, demandez si les enfants connaissent les chiffres ou les dés de jeux de société.
 
 ![repeat-chips](images/guide5a.excalidraw.svg)
 
-Put two “Forward” chips in the top row and run-the robot moves two cells.
+Insérez deux blocs « Avancer » en haut et exécutez – le robot avance de deux cases.
 
 ![forvard*2](images/guide5b.excalidraw.svg)
 
-Now, leave one “Forward,” and put a “repeat 2” chip under it. The result is the same: the action is repeated twice.
+Puis ne gardez qu’un bloc « Avancer » et placez dessous le bloc « boucle 2 ». Même résultat : l’action se répète deux fois.
 
 ![forvard-repeat2](images/guide5c.excalidraw.svg)
 
-Set up four “**Forward**” commands and see the result, then ask the children to use the value chips-**loops**-to repeat the robot’s move for four cells.
+Placez 4 blocs « **Avancer** », observez le résultat, puis demandez aux enfants d’obtenir le même effet en utilisant les blocs « boucle ».
 
-There are simple solutions by using the “**Forward**” chip and repeat 4, and others, such as “**Forward**” with loop 3 and an additional “**Forward**” command.
+Plusieurs solutions sont possibles : par exemple un bloc « **Avancer** » avec boucle 4, ou un bloc « Avancer » avec boucle 3 et un autre « Avancer ».
 
 ![repeat-task](images/guide5d.excalidraw.svg)
 
-### Function Call in a Loop
+### Boucle appelant une fonction
 
-Try using a loop value chip with the “Function” command: for example, have the robot walk in a zigzag by setting the “Function” command with loop value 5 and a sequence in the controller’s bottom section of “**Forward, Right, Forward, Left**.”
+Essayez d’appliquer une boucle à la commande « Fonction », par exemple pour faire un zigzag : placez « Fonction » avec boucle 5, et dans la fonction (rangée inférieure), une séquence « **Avancer** », « **Droite** », « **Avancer** », « **Gauche** ».
 
-First, create a function program for “steps”: "forward," "right," "forward," "left," and run it.
+Commencez par créer la fonction « escalier » : « avancer », « droite », « avancer », « gauche », puis exécutez.
 
-Then add the loop with the value 5 to the function, so the function repeats several times-the robot will move as a staircase to the right and up.
+Ajoutez la boucle 5 sur « Fonction » : le robot montera 5 marches d’escalier à droite.
 
 ![step-task](images/guide5e.excalidraw.svg)
 
-The robot will move diagonally as a staircase, making 5 steps.
+Le robot se déplace en diagonale, effectuant 5 marches.
 
 ![step-task-result](images/guide5f.excalidraw.svg)
 
-## 6 – Random Numbers
+## 6 - Nombres aléatoires
 
-### The Concept of a Random Number
+### Introduction aux nombres aléatoires
 
-Among the chips is the “Random Number of Repeats” (shows a die). It selects a random value from 1 to 6. Play a game involving drawing repeat chips from a bag.
+Parmi les blocs figure le « Nombre de répétitions aléatoire » (illustré par un dé). Il choisit un nombre entre 1 et 6. Organisez un jeu où les enfants tirent au hasard les blocs « boucle » d’une boîte.
 
 ![rnd-repeat-chip](images/guide6a.excalidraw.svg)
 
-To introduce the concept of a random number, take four repeat chips: “**2**,” “**3**,” “**4**,” and “**5**,” place them in an opaque box or bag, shuffle, and ask the children to draw one and name the value, then return it. Play a game to see who draws the largest number. Explain randomness of four states using this example.
+Pour explorer la notion d’aléa, placez 4 blocs « boucle » : « **2** », « **3** », « **4** » et « **5** », dans une boîte opaque. Les enfants piochent à tour de rôle, nomment les valeurs, puis les remettent. Faites un jeu pour tirer la valeur la plus élevée. Expliquez le principe du hasard ainsi.
 
-Next, show the “**Random Number of Repeats**” value chip. Explain that this chip does similar to what they did before, drawing value chips from a bag: it randomly chooses one of six numbers (1 to 6), like a die, to send to the robot for command repeats.
+Présentez ensuite le bloc « **Nombre de répétitions aléatoire** ». Expliquez que ce bloc choisit au hasard un nombre de 1 à 6 comme un dé, puis transmet la valeur au robot qui répète l’action.
 
-Put the “**Forward**” chip in the top controller slot and the “**Random Number of Repeats**” chip below. Ask the children to press “**Execute**.” Return the robot to the original spot. Repeat this task several times.
+Placez « **Avancer** » suivi de « **Nombre de répétitions aléatoire** » sur la télécommande. Appuyez sur « **Exécuter** ». Replacez le robot au départ, répétez l’exercice.
 
 ![rnd-forvard](images/guide6b.excalidraw.svg)
 
-Play a game: whose robot travels further?
+Faites un jeu : qui fera avancer son robot le plus loin.
 
-Draw the children’s attention to the fact that the robot moves a random number of cells: from 1 to 6. Emphasize that this is randomness and you cannot know beforehand how far the robot will go.
+Mettez en évidence que le robot se déplace d’un nombre aléatoire de cases (1 à 6). Soulignez que l’on ne peut pas prévoir la distance exacte à l’avance.
 
-## 7 – Numbers: Distances and Angles
+## 7 - Nombres : distances et angles
 
-### Getting to Know Numbers
+### Utilisation des valeurs numériques
 
-Without setting numeric values for the commands (above or below the command in the double slot), the robot uses default movement parameters: without parameters, the robot drives forward 10 cm and turns 90°. These values can be changed by using number chips.... Example: add the value **200** to the **"Forward"** command and see how far the robot goes. Add value **180** to the **"turn"** command and observe the changes.
+Sans bloc de valeur, le robot utilise les paramètres par défaut : « Avancer » = 10 cm, « Tourner » = 90°. Ces valeurs peuvent être modifiées à l’aide des blocs numériques. Par exemple, ajoutez le bloc **200** à « Avancer » pour modifier la distance, ou **180** à « Tourner » pour changer l’angle.
 
 ![example1](images/example1.excalidraw.svg)
 
-> **Important:** The controller saves the last value set for movement and turn commands.
-If a command is used without a new value, the last saved value is applied until the controller powers off.
-Setting a new value changes the default parameter.
-Default values (100 mm and 90°) can be restored by setting them explicitly or restarting the controller.
+> **Important :** La télécommande mémorise la dernière valeur utilisée pour chaque commande jusqu’à extinction.
+Si une commande est utilisée sans nouvelle valeur, la dernière valeur reste en vigueur jusqu’à l’arrêt.
+Une nouvelle valeur modifie le paramètre par défaut.
+Les valeurs par défaut (100 mm et 90°) peuvent être restaurées en les indiquant explicitement ou en redémarrant la télécommande.
 
-Changing parameters enables more complex trajectories and movement scenarios. See examples on the [mathematical drawings page](math_drawings.md).
+Modifier ces paramètres permet de créer des trajectoires complexes. Voir des exemples sur la [page des dessins mathématiques](math_drawings.md).
 
-## 8 – Arithmetic
+## 8 - Arithmétique
 
-### Arithmetic Operations
+### Opérations arithmétiques
 
-Arithmetic operations with numbers allow you to dynamically change values in a program for movement commands (Forward, Back, Left, Right), making robot control more flexible.
+Les opérations arithmétiques permettent de modifier dynamiquement les valeurs associées aux commandes de mouvement (Avancer, Reculer, Tourner Gauche/Droite), rendant la programmation plus flexible.
 
-When you add an arithmetic operation, the controller changes the stored number for the movement command and sends a new value to the robot.
+Si vous ajoutez une opération arithmétique, la télécommande ajuste la valeur mémorisée pour la commande concernée et envoie la nouvelle valeur au robot.
 
-Example:
+Exemple :
 
 ![example2](images/example2.excalidraw.svg)
 
-“Forward 200”-the robot moves 20 cm, “Forward +100”-another 30 cm. Total distance: 50 cm.
+« Avancer 200 » – le robot parcourt 20 cm, « Avancer +100 » – 30 cm supplémentaires. Distance totale : 50 cm.
 
-Using such operations in a loop lets you create progressions.
+Utilisées en boucle, ces opérations permettent de construire des progressions.
 
-> If, as a result of an arithmetic operation, the number becomes negative, the robot executes the inverse action: instead of forward, it moves back; instead of turning left, it turns right.
+> Si le résultat devient négatif, le robot effectue l’action inverse : recule au lieu d’avancer, tourne à droite au lieu de gauche, etc.
 
-Available: addition (+), subtraction (−), multiplication (*), division (/), root (√), power (^).
+Opérations disponibles : addition (+), soustraction (−), multiplication (*), division (/), racine (√), puissance (^).
 
-Pattern examples are shown on the [mathematical drawings page](math_drawings.md).
+Exemples de motifs sur la [page dédiée](math_drawings).
 
 ---
 
-## Play and learn with children!
+## Jouez et apprenez avec vos élèves !
 
-You know your students best. PrimaSTEM is a universal tool for playful learning. Use it to teach programming, logic and other subjects. Everything depends on your imagination!
+Vous connaissez mieux que quiconque vos élèves. PrimaSTEM est un outil universel pour l’apprentissage ludique. Utilisez-le pour enseigner la programmation, la logique et d’autres matières. Laissez place à votre imagination !
 
-p/s: Thank you for using PrimaSTEM and for your interest! We look forward to your feedback: [write to us](contacts.md) about your experience and impressions.
+*p/s : Merci d’utiliser PrimaSTEM et pour votre intérêt ! Faites-nous part de vos retours : [écrivez-nous](contacts.md) pour partager votre expérience.*

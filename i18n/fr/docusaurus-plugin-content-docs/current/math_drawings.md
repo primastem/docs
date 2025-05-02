@@ -1,73 +1,73 @@
 ---
-sidebar_label: 'Mathematical Drawings'
+sidebar_label: 'Exemples de dessins'
 sidebar_position: 40
 ---
 
-# Examples of Mathematical Drawings
+# Exemples de dessins mathématiques
 
-## Simple Ten-Pointed Star
+## Étoile simple à dix branches
 
-| Program | Result |
+| Code | Résultat |
 | --- | --- |
 | ![star10.excalidraw.png](images/star10.excalidraw.svg) | ![star10draw.excalidraw.svg](images/star10draw.excalidraw.svg) |
 
-## Regular Pentagon
+## Pentagone régulier
 
-| Program | Result |
+| Code | Résultat |
 | --- | --- |
 | ![5angles.excalidraw.png](images/5angles.excalidraw.svg) | ![5anglesdraw.excalidraw.png](images/5anglesdraw.excalidraw.svg) |
 
-## Simple Five-Pointed Star
+## Étoile simple à cinq branches
 
-| Program | Result |
+| Code | Résultat |
 | --- | --- |
 | ![star5.excalidraw.png](images/star5.excalidraw.svg) | ![star5draw.excalidraw.svg](images/star5draw.excalidraw.svg) |
 
-## Mathematical Heart Drawing
+## Dessin mathématique d’un cœur
 
-| Program | Result |
+| Code | Résultat |
 | --- | --- |
 | ![heart.excalidraw.png](images/heart.excalidraw.svg) | ![heartdraw.excalidraw.svg](images/heartdraw.excalidraw.svg) |
 
-## Triangle with a Simple Program
+## Triangle avec un programme simple
 
-| Program | Result |
+| Code | Résultat |
 | --- | --- |
 | ![trianglesimple.excalidraw.png](images/trianglesimple.excalidraw.svg) | ![trianglesimpledraw.excalidraw.svg](images/trianglesimpledraw.excalidraw.svg) |
 
-## Triangle Using Function
+## Triangle utilisant une fonction
 
-| Program | Result |
+| Code | Résultat |
 | --- | --- |
 | ![trianglefunction.excalidraw.png](images/trianglefunction.excalidraw.svg) | ![trianglesimpledraw.excalidraw.svg](images/trianglesimpledraw.excalidraw.svg) |
 
-## Triangular Spiral
+## Spirale triangulaire
 
-| Program | Result |
+| Code | Résultat |
 | --- | --- |
 | ![spiraltriangle.excalidraw.png](images/spiraltriangle.excalidraw.svg) | ![spiraltriangledraw.excalidraw.svg](images/spiraltriangledraw.excalidraw.svg) |
 
-## Curve with Negative Angles
+## Courbe avec angles négatifs
 
-| Program | Result |
+| Code | Résultat |
 | --- | --- |
 | ![curvenegativeangle.excalidraw.png](images/curvenegativeangle.excalidraw.svg) | ![curvenegativeangledraw.excalidraw.svg](images/curvenegativeangledraw.excalidraw.svg) |
 
-## Square Spiral
+## Spirale carrée
 
-| Program | Result |
+| Code | Résultat |
 | --- | --- |
 | ![spiralsquare.excalidraw.png](images/spiralsquare.excalidraw.svg) | ![spiralsquaredraw.excalidraw.svg](images/spiralsquaredraw.excalidraw.svg) |
 
-## ~5-Minute Timer
+## Minuterie ~5 minutes
 
-| Program | Result |
+| Code | Résultat |
 | --- | --- |
 | ![timer5min.excalidraw.png](images/timer5min.excalidraw.svg) | ![images/timer5mindraw.excalidraw.svg](images/timer5mindraw.excalidraw.svg) |
 
-## Spiral
+## Spirale
 
-| Program | Result |
+| Code | Résultat |
 | --- | --- |
 | ![spiral.excalidraw.png](images/spiral.excalidraw.svg) | ![spiraldraw.excalidraw.svg](images/spiraldraw.excalidraw.svg) |
 

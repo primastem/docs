@@ -59,6 +59,8 @@ sidebar_position: 10
 3. Нажмите кнопку «Выполнить».
 4. Робот исполнит программу.
 
+---
+
 **Видео-презентация:** [youtu.be/Ztq_I1WBiVo](https://youtu.be/Ztq_I1WBiVo)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ztq_I1WBiVo?si=a54tevy8tUEQMOva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---

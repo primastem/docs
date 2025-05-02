@@ -5,9 +5,9 @@ sidebar_position: 90
 
 # Наши контакты
 
-Почта - [primastem@gmail.com](mailto:primastem@gmail.com)
+Почта - [primastem@gmail.com](mailto:primastem@gmail.com) 
 
-Сообщения - WhatsApp [+33 6 2495 0936](https://api.whatsapp.com/send?phone=33624950936)
+Сообщения - WhatsApp [+33 6 2495 0936](https://api.whatsapp.com/send?phone=33624950936) (En, Fr)
 
 Web - [primastem.com](https://primastem.com) 
 

@@ -1,41 +1,41 @@
 ---
-sidebar_label: 'Command chips'
+sidebar_label: 'Jetons-commandes'
 sidebar_position: 50
 ---
 
-# Command Chips
+# Jetons-commandes
 
-## **Basic commands (25 pieces)**
+**Commandes de base (25 pièces)**
 
-| Command or Value | Quantity | NFC code |
+| Commande ou Valeur | Quantité | Code NFC |
 | --- | --- | --- |
-| Forward | 5 | cfor |
-| Left | 4 | clef |
-| Right | 4 | crig |
-| Backward | 1 | cbac |
-| Repeat 2 | 2 | r002 |
-| Repeat 3 | 1 | r003 |
-| Repeat 4 | 1 | r004 |
-| Repeat 5 | 1 | r005 |
-| Repeat 6 | 1 | r006 |
-| Repeat Random number (1 to 6) | 1 | rrnd |
-| Function | 3 | cfun |
-| Random Move | 1 | crnd |
+| Avancer | 5 | cfor |
+| Gauche | 4 | clef |
+| Droite | 4 | crig |
+| Reculer | 1 | cbac |
+| Répéter 2 | 2 | r002 |
+| Répéter 3 | 1 | r003 |
+| Répéter 4 | 1 | r004 |
+| Répéter 5 | 1 | r005 |
+| Répéter 6 | 1 | r006 |
+| Répéter nombre aléatoire (de 1 à 6) | 1 | rrnd |
+| Fonction | 3 | cfun |
+| Mouvement aléatoire | 1 | crnd |
 | ***Total*** | ***25*** | |
 
-## **Extended commands and values (67 pieces)**
+**Commandes et valeurs avancées (67 pièces)**
 
-| Command or Value | Quantity | NFC code |
+| Commande ou Valeur | Quantité | Code NFC |
 | --- | --- | --- |
-| Repeat 7 | 1 | r007 |
-| Repeat 8 | 1 | r008 |
-| Repeat 9 | 1 | r009 |
-| Repeat 10 | 1 | r010 |
-| Repeat 18 | 1 | r018 |
-| Repeat 36 | 1 | r036 |
-| Repeat 72 | 1 | r072 |
-| Repeat 180 | 1 | r180 |
-| Repeat 360 | 1 | r360 |
+| Répéter 7 | 1 | r007 |
+| Répéter 8 | 1 | r008 |
+| Répéter 9 | 1 | r009 |
+| Répéter 10 | 1 | r010 |
+| Répéter 18 | 1 | r018 |
+| Répéter 36 | 1 | r036|
+| Répéter 72 | 1 | r072 |
+| Répéter 180 | 1 | r180 |
+| Répéter 360 | 1 | r360 |
 | 1 | 1 | n001 |
 | 2 | 1 | n002 |
 | 3 | 1 | n003 |
@@ -47,7 +47,6 @@ sidebar_position: 50
 | 9 | 1 | n009 |
 | 10 | 1 | n010 |
 | 15 | 1 | n015 |
-| 18 | 1 | n018 |
 | 20 | 1 | n020 |
 | 30 | 1 | n030 |
 | 36 | 1 | n036 |
@@ -89,17 +88,17 @@ sidebar_position: 50
 | /3 | 1 | d003 |
 | X^2 | 1 | e002 |
 | X^3 | 1 | e003 |
-| Square root of X | 1 | sqrt |
+| Racine carrée de X | 1 | sqrt |
 | Pause | 1 | cwat |
-| Blank NFC tag | 1 |  |
-| Distance calibration | 1 | ccal |
-| Set default step length | 1 | clen |
+| Étiquette NFC vierge | 1 | |
+| Calibration de la distance | 1 | ccal |
+| Définir la longueur de pas par défaut | 1 | clen |
 | ***Total*** | ***67*** | |
 
-## **Other possible commands and operations**
+**Commandes et opérations supplémentaires possibles**
 
-| Command / Value | Quantity | NFC code |
+| Commande / Valeur | Quantité | Code NFC |
 | --- | --- | --- |
-| Factorial | 1 | fact |
-| Sound sample | 1 | csou |
-| Blink LEDs for 1 sec. | 1 | cldX, where X = rgb color |
+| Factorielle | 1 | fact |
+| Échantillon sonore | 1 | csou |
+| Clignoter avec les LED pendant 1 sec. | 1 | cldX, où X = couleur rgb |

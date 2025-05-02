@@ -1,163 +1,158 @@
 ---
-sidebar_label: 'User Manual'
+sidebar_label: 'Description et mode d’emploi'
 sidebar_position: 20
 ---
 
-# User Manual
+# Description et mode d’emploi
 
-**PrimaSTEM** - a set for teaching children aged 4 to 12 the basics of logic, programming, and mathematics.
+**PrimaSTEM** est un kit destiné à l'apprentissage de la logique, de la programmation et des mathématiques pour les enfants de 4 à 12 ans.
 
-## Technical Specifications and Package Contents
+## Caractéristiques techniques et composition
 
 ![primastem](images/photo_2_2025-02-10_17-39-32.png)
 
-- Game robot
-- Robot control controller
-- Chips for commands, values, and arithmetic operations to create programs
-- Play field (depending on package)
+- Robot éducatif
+- Télécommande pour contrôler le robot
+- Jetons-commandes, jetons-valeurs et opérateurs arithmétiques pour la programmation
+- Tapis de jeu (selon la configuration)
 
-> Package contents and appearance may slightly differ. Check details at purchase.
+> La composition et l’apparence peuvent légèrement varier. Veuillez vérifier lors de l’achat.
 
-### Game Robot
+### Robot éducatif
 
-Dimensions: D=125 mm, H=45 mm.
+Dimensions : D=125 mm, H=45 mm.
 
 ![robot](images/photo_2025-02-10_17-38-46.png)
 
-The robot has a power button, LEDs, a speaker, a function button, and a USB-C port for charging the battery.
+Le robot possède un bouton d’alimentation, des LED, un haut-parleur, un bouton fonctionnel et un port USB-C pour recharger la batterie intégrée.
 
-A marker up to 10 mm in diameter can be placed in the robot's center for drawing simple figures while moving.
+Un emplacement central permet d’insérer un marqueur (jusqu’à 10 mm de diamètre) pour dessiner des figures simples lors des déplacements du robot.
 
-Appearance may slightly vary depending on the set, but the main functionality remains.
+L’aspect peut varier selon le kit, mais la fonctionnalité de base reste inchangée.
 
-### Controller
+### Télécommande
 
-Dimensions: L=310 mm, W=210 mm, H=52 mm.
+Dimensions : L=310 mm, l=210 mm, H=52 mm.
 
 ![control](images/photo_29_2025-02-10_17-39-32.png)
 
-The controller features 11 dual slots for installing command and value chips: 6 for the main program (top row), 5 for the subroutine (bottom row).  
-The controller has two buttons: on the left-power, on the right-“Execute / Stop” to start and stop the program.
+La télécommande dispose de 11 emplacements doubles pour insérer les jetons : 6 pour le programme principal (ligne supérieure), 5 pour la sous-programme (ligne inférieure).
+Deux boutons sont présents : à gauche pour l’alimentation, à droite pour « Exécuter/Arrêter » le programme.
 
-After installing command and value chips into the slots, press “Execute”: the robot will run the program. Active commands are indicated by LEDs between the slots.
+Après insertion des jetons, appuyez sur « Exécuter » : le robot exécutera la séquence programmée. Les LED entre les emplacements indiquent les étapes actives.
 
-If a chip is installed incorrectly-the controller indicates this with a red LED, but the program continues (for example, when a value chip is set without a command).
+Si un jeton est mal inséré, la télécommande signale une erreur par une LED rouge, mais l’exécution se poursuit (par exemple, si un jeton-valeur est placé sans commande).
 
-The controller has a USB-C charging port and a speaker.
+La télécommande possède un port USB-C pour la recharge et un haut-parleur.
 
-### Chips – Instructions
+### Jetons - instructions
 
-Dimensions: LxW (or D)=30 mm.
+Dimensions : LxL(D)=30 mm.
 
-The set includes chips for program creation.  
-Each chip is a command with a clear value and instruction. The sequence of blocks determines the robot's behavior.
+Le kit comporte des jetons pour composer des programmes.  
+Chaque jeton correspond à une commande claire ou une valeur. L’ordre des jetons détermine le comportement du robot.
 
 ![coding chips](images/Image16.jpg)
 
-Chips are divided into **commands**, **values**, and **arithmetic**.
+Les jetons sont répartis en **commandes**, **valeurs** et **opérations arithmétiques**.
 
-#### Command Chips
+#### Jetons-commandes
 
-The main blocks for programming:
+Principaux blocs pour la programmation du robot :
 
-- **Forward** - move forward (10 cm by default)
-- **Right** - turn 90° clockwise
-- **Left** - turn 90° counter-clockwise
-- **Back** - move backward (10 cm by default)
-- **Function** - runs a subprogram from the controller's bottom row
-- **Random Move** - one of the movement actions: Forward, Left, or Right (for the standard distance)
+- **Avancer** : déplace le robot vers l’avant (10 cm par défaut)
+- **Droite** : tourne à droite de 90°
+- **Gauche** : tourne à gauche de 90°
+- **Reculer** : recule de 10 cm (par défaut)
+- **Fonction** : exécute la sous-programme (ligne inférieure de la télécommande)
+- **Mouvement aléatoire** : choisit aléatoirement Avancer, Droite ou Gauche (distance standard)
+- **Jetons de boucles (répétitions)** : jetons numérotés de 2 à 6 points, avec des pictogrammes de boucle et le chiffre. Le jeton avec un dé indique un nombre aléatoire de répétitions de 1 à 6.
 
-> There are also repeat (cycle) chips, number values, and arithmetic symbols for advanced programming-for example, command repetition and distance/angle modification.
+> Les jetons de valeurs numériques et d’opérations arithmétiques permettent d’élargir les possibilités de programmation, par exemple pour répéter des commandes ou changer distance/angle.
 
-#### Repeat (Cycle) Chips
+#### Jetons-valeurs
 
-Chips with numbers from 2 to 6 (as dots) and pictograms showing the repeat count.
+Jetons d’angles et de distances : 30°, 36°, 45°, ainsi que d’autres multiples (60°, 72°, etc.).  
+Les angles sont exprimés en degrés, les distances en millimètres.  
+Par défaut : 90° et 100 mm (10 cm).
 
-A chip with a die means a random number of repeats from 1 to 6.
+#### Jetons d’opérations arithmétiques
 
-#### Value Chips
-
-Angle and distance chips: 30°, 36°, 45°, and multiples (60°, 72°, etc.).  
-Angles are in degrees, distances in millimeters.  
-Defaults are 90° and 100 mm (10 cm).
-
-#### Arithmetic Chips
-
-Change parameters for movement commands:
+Ils modifient les paramètres des commandes de mouvement :
 
 - Addition (+)
-- Subtraction (−)
+- Soustraction (−)
 - Multiplication (*)
 - Division (/)
-- Root (√)
-- Power (^)
+- Racine (√)
+- Puissance (^)
 
-## Connecting the Controller and Robot
+## Connexion de la télécommande et du robot
 
-It is recommended to turn on the robot first, then the controller.
+Il est recommandé d’allumer d’abord le robot, puis la télécommande.
 
-Place the robot on a flat surface before connecting: after pairing, the LEDs turn white. If not connected, they flash red.
+Placez le robot sur une surface plane avant la connexion : les LED deviennent blanches après l'appairage. Si la liaison n’est pas établie, elles clignotent en rouge.
 
-Test the connection: insert a “Forward” chip and press “Execute”.
+Vérifiez la connexion : insérez le jeton « Avancer » et appuyez sur « Exécuter ».
 
-If there is no connection-restart both devices or charge them. Temporary connection loss is possible near strong electromagnetic sources (mobile phone, WiFi router).
+En cas d’absence de connexion, redémarrez les deux appareils ou rechargez-les. Des interférences temporaires sont possibles à proximité de sources électromagnétiques puissantes (téléphone portable, point d’accès Wi-Fi).
 
-> **After device firmware updates**, pairing may be required: turn on the robot, then the controller, press and hold the “Execute” button on the controller for 10–15 seconds, until you hear a sound.
+> **Après une mise à jour logicielle**, l’appairage peut être nécessaire : allumez le robot puis la télécommande, puis maintenez le bouton « Exécuter » pendant 10–15 secondes jusqu’au signal sonore.
 
-## How Does It Work?
+## Comment ça marche ?
 
-To program movement, install command chips (e.g., “Forward”, “Left”, “Function”) into the controller's slots.  
-You can set command values and repeat counts, as well as angles, distances, or arithmetic operations.
+Pour programmer un déplacement, insérez les jetons-commandes (par exemple, « Avancer », « Gauche », « Fonction », etc.) dans les emplacements de la télécommande.
+Vous pouvez également insérer des valeurs de commande, nombres de répétitions, angles, distances et opérations arithmétiques.
 
-To assign both a command and a value (repeat), slots are paired (“bridged”) with indicators.
+Les emplacements doubles permettent d’associer une commande à une valeur ou un répétiteur, avec des indicateurs lumineux.
 
-  *Below is a sample program using a cycle to repeat a code section. The program creates a square path for the robot:*
+  *Exemple ci-dessous : un programme utilisant une boucle pour répéter le même code, permettant au robot de parcourir un carré :*
 
 ![control with chips](images/manual1a.excalidraw.svg)
 
-Commands are placed in the upper part of the controller (6 slots) and run left to right. Empty slots or errors (e.g., two commands in one slot or a value without a command) are ignored.
+Les commandes sont insérées prioritairement en haut (ligne principale, 6 emplacements), et sont exécutées de gauche à droite. Les emplacements vides ou erreurs (par exemple, deux commandes dans un bloc ou une valeur sans commande) sont ignorés.
 
-The block sequence determines the robot's movement.
+L’ordre des jetons détermine la trajectoire du robot.
 
-Press “Execute” to run the program.
+Appuyez sur « Exécuter » pour démarrer le programme.
 
-Default settings:  
-- “Forward” - 10 cm.
-- “Left/Right” - 90°.
-- Cycles repeat commands multiple times.
-- “Function” calls the subprogram from the bottom row (5 slots).
-- You can call a subprogram several times by adding a repeat chip to the “Function” (see the sample above).
+Par défaut :  
+- « Avancer » : 10 cm.
+- « Gauche/Droite » : 90°.
+- Les boucles (répétitions) permettent de réaliser plusieurs fois une commande.
+- « Fonction » appelle la sous-programme (ligne inférieure, 5 emplacements).
+- Vous pouvez appeler une sous-programme dans une boucle en ajoutant un jeton « répétition » à « Fonction » (voir exemple ci-dessus).
 
-**Key Features:**
+**Fonctions importantes :**
 
-- **Interrupt** the program by pressing “Execute” again during movement.
-- The controller remembers the **last set value** (distance/angle) for a movement command until powered off: for example, if “Forward” = 200, all subsequent “Forward” commands use this value.
-    - Handy for play fields with steps other than 10 cm.
-    - Values from arithmetic operations are also saved.
-- Change the **default step** using a special chip: e.g., for 12.5 cm, set the “Default Step” chip with value 125. Value is saved after power-off.
-- **After firmware update** you may need to calibrate the gyroscope and drive distance:
-    - a. For gyroscope calibration, place the robot on a level surface, insert the “Calibrate” chip in the controller, and press “Execute”.
-    - b. **For distance calibration**, measure actual movement with the “Forward” command, set the “Calibrate” chip and the required value chip, then press “Execute”. You can record the value to any numeric NFC chip using an NFC-enabled phone as text “nXXX” (e.g., n095 for 95 mm). After this, the robot's movement distance will be accurate.
-- The controller and robot **automatically power off** after 10 minutes of inactivity.
-- If the robot is unused for 1–3 minutes, it makes small movements, indicating that it is working and ready.
-- You can modify or **create your own chips**-commands, numbers, or arithmetic-with an NFC phone and any NFC tag writing app, like “NFC Tools”. Record a 4-character text (e.g., n100 for 100 mm) to a blank NFC chip. Contact us for instructions.
+- **Arrêter** l’exécution du programme : appuyez à nouveau sur « Exécuter » pendant le mouvement.
+- La télécommande mémorise la **dernière valeur** (distance/angle) pour chaque commande jusqu’à extinction : par exemple, si « Avancer » = "200", toutes les commandes suivantes « Avancer » seront exécutées avec cette valeur.
+    - Cela est utile si le tapis de jeu a une taille différente de 10 cm.
+    - Les valeurs modifiées par une opération arithmétique restent enregistrées.
+- Pour changer la **distance par défaut**, utilisez le jeton correspondant : par exemple, pour une avancée de 12,5 cm, insérez le jeton « Distance par défaut » avec la valeur 125. Ce paramètre est conservé après extinction.
+- **Après mise à jour logicielle**, calibrez le gyroscope et la distance de déplacement :
+    - a. Gyroscope : placez le robot sur une surface horizontale, insérez le jeton « Calibration » dans la télécommande et appuyez sur « Exécuter ».
+    - b. **Pour calibrer la distance**, mesurez la trajectoire réelle du robot avec « Avancer », insérez « Calibration » et le jeton-valeur cible, puis « Exécuter ». Une valeur personnalisée peut être inscrite sur n’importe quel jeton NFC numérique à l’aide d’un smartphone compatible NFC, sous la forme nXXX (par ex., n095 pour 95 mm). Le robot adoptera cette nouvelle longueur de pas.
+- La télécommande et le robot **s'éteignent automatiquement** après 10 minutes d’inactivité.
+- Si le robot n’est pas utilisé pendant 1–3 minutes, il effectue de petits mouvements pour indiquer qu’il est prêt à fonctionner.
+- Vous pouvez modifier ou **créer vos propres jetons** (commandes, valeurs numériques ou opérations arithmétiques) via une application NFC comme "NFC Tools". Écrivez une valeur personnalisée sur un jeton NFC numérique vierge à l’aide d’un smartphone NFC, sous forme de 4 caractères. Contactez-nous pour obtenir des instructions.
 
-PrimaSTEM is a practical tool for learning programming, developing creative thinking and logic.
+PrimaSTEM est un outil pratique pour assimiler la programmation, développer la pensée créative et la logique.
 
-See the **Teacher’s Guide** for more details on features.
+Plus d’informations sur les fonctionnalités dans le **Guide de l’enseignant**.
 
-## Important!
+## Important !
 
-> The set **is not intended for children under 4 years old** and contains small details - **choking hazard**! Use **only under adult supervision**!
+> Le kit **n'est pas destiné aux enfants de moins de 4 ans** et contient de petites pièces - **risque d’étouffement** ! À utiliser **uniquement sous la surveillance d’adultes** !
 
-The device contains Li-ion batteries. **Charge only under adult supervision** with a standard 5V USB adapter and USB-C cable.
+L’appareil contient des batteries Li-ion. **Rechargez uniquement sous surveillance adulte avec un chargeur USB 5V standard et un câble USB-C.**
 
-A 1-hour charge of the controller and robot is enough for 1–2 lessons; a full charge (2–3 hours) lasts for 3 sessions of 30–45 minutes. Battery capacity may decline over time; 16340 Li-ion batteries can be replaced.
+La recharge du robot ou de la télécommande (1h) suffit pour 1–2 leçons ; une charge complète (2–3h) pour 3 leçons de 30–45 min. Avec le temps, la capacité des batteries peut diminuer ; il est possible de les remplacer (piles 16340 Li-ion).
 
-If unused for extended periods, charge the batteries **every 3–4 months**. Deep discharge may render them unusable and require replacement.
+En cas de non-utilisation prolongée, rechargez les batteries **tous les 3–4 mois**. En cas de décharge profonde, les batteries peuvent être irrémédiablement endommagées et devront être remplacées.
 
-**Do not open the device** yourself-for repairs or battery replacement, contact the seller.
+**N’ouvrez pas l’appareil vous-même** - pour tout problème ou remplacement des batteries, contactez le vendeur.
 
-Store and use the set in a dry room at +10...+30°C, humidity 45–60%. Avoid direct sunlight, moisture, and dust.
+Stockez et utilisez l’appareil dans un lieu sec à +10…+30°C, humidité 45–60%. Évitez l’exposition directe au soleil, à l’humidité ou à la poussière.
 
-Avoid impacts and vibration. Transport and store the device in original packaging at +5...+40°C, protected from damage and moisture.
+Protégez l’appareil contre les chocs et vibrations. Transportez-le et rangez-le dans son emballage d’origine à +5…+40°C, en évitant les chocs et l’humidité.

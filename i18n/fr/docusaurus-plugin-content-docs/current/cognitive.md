@@ -1,173 +1,173 @@
 ---
-sidebar_label: 'For Elderly People'
+sidebar_label: 'Pour les seniors'
 sidebar_position: 60
 ---
 
-# For Elderly People
+# Pour les seniors
 
-Restoration of Cognitive Functions in Older Adults Using the PrimaStem Robotic System
+Restauration des fonctions cognitives chez les personnes âgées grâce au complexe robotisé PrimaStem
 
 ## INTRODUCTION
 
-PrimaStem is a robotic system consisting of a programmable robot and a control panel with a set of command chips. The system can be used for the prevention and correction of cognitive impairments in older adults.
+PrimaStem est un complexe robotisé combinant un robot programmable et une télécommande munie de jetons de commande. Ce dispositif peut être utilisé pour la prévention et la correction des troubles cognitifs chez les personnes âgées.
 
-### Target Audience
+### Public cible
 
-- Elderly people with mild cognitive impairments
-- Individuals recovering from neurological diseases
-- Patients at early stages of neurodegenerative diseases
+- Personnes âgées présentant des troubles cognitifs légers
+- Personnes en rééducation après un accident neurologique
+- Patients aux premiers stades de maladies neurodégénératives
 
-### Contraindications
+### Contre-indications
 
-- Severe visual impairment
-- Significant motor impairments of the upper limbs
-- Severe dementia
-- Acute psychiatric disorders
+- Troubles visuels sévères
+- Troubles moteurs marqués des membres supérieurs
+- Démence avancée
+- Troubles psychiatriques aigus
 
-## GENERAL PRINCIPLES
+## PRINCIPES GÉNÉRAUX
 
-With age and in neurodegenerative diseases, there can be memory decline, reduced ability for abstract thinking, learning, and creativity. Activities with the PrimaStem set help slow these processes by training various cognitive skills in an engaging game-based format.
+Avec l’âge et lors de maladies neurodégénératives, on observe souvent une détérioration de la mémoire, une baisse des capacités d’abstraction, d’apprentissage et de créativité. Les activités avec le kit PrimaStem contribuent à ralentir ces processus en stimulant différentes fonctions cognitives de manière ludique.
 
-### Methodological Recommendations
+### Recommandations méthodologiques
 
-### Organization of Sessions
+### Organisation des séances
 
-- Duration of one session: 30–45 minutes
-- Frequency: 2–3 times per week
-- Format: individual or small groups (2–4 people)
-- Required breaks: 5–10 minutes after every 15–20 minutes of work
+- Durée d’une séance : 30-45 minutes
+- Fréquence : 2 à 3 fois par semaine
+- Format : individuel ou petits groupes (2-4 personnes)
+- Pauses recommandées : 5 à 10 minutes après chaque tranche de 15 à 20 minutes
 
-### Guiding Principles for Sessions
+### Principes d’organisation
 
-1. Gradual increase in task complexity
-2. Consideration of individual characteristics and limitations
-3. Creating a positive emotional environment
-4. Alternating different types of exercises
-5. Mandatory feedback and encouragement
+1. Augmentation progressive de la difficulté des exercices
+2. Prise en compte des particularités et limitations individuelles
+3. Instaurer un climat émotionnel positif
+4. Alterner différents types d’exercices
+5. Fournir régulièrement des retours positifs et des encouragements
 
-## MAIN AREAS OF INTERVENTION
+## PRINCIPAUX AXES DE RÉÉDUCATION
 
-### Cognitive Functions
+### Fonctions cognitives
 
-- Intellectual stimulation
-- Development of spatial thinking and memory
-- Improvement of visual and auditory-verbal memory
-- Training logical thinking and mental arithmetic
-- Development of planning and activity control skills
-- Training peripheral vision
+- Stimulation de l’activité intellectuelle
+- Développement de la pensée spatiale et de la mémoire
+- Amélioration de la mémoire visuelle et verbale
+- Stimulation de la logique et du calcul mental
+- Développement des compétences en planification et en contrôle des actions
+- Entraînement de la vision périphérique
 
-### Socio-Emotional Aspects
+### Aspects socio-émotionnels
 
-- Maintaining personal potential and social activity
-- Creating opportunities for self-expression
-- Overcoming communication barriers
-- Forming a positive emotional background
+- Maintien du potentiel personnel et de l’activité sociale
+- Favoriser l’expression de soi
+- Surmonter les barrières de communication
+- Créer un environnement émotionnel positif
 
-## TRAINING OPTIONS AND GAME-BASED EXERCISES
+## EXEMPLES D’ENTRAÎNEMENTS ET D’EXERCICES LUDIQUES
 
-### 1. Basic Exercises (Adaptation Period)
+### 1. Exercices de base (période d’adaptation)
 
-- Getting to know the command chips
-- Simple straight robot movements
-- Performing basic turns
-- Creating simple command sequences
+- Découverte des jetons de commande
+- Déplacements simples du robot en ligne droite
+- Réalisation de tournants de base
+- Création de séquences de commandes simples
 
-### 2. Training Spatial Thinking
+### 2. Développement de la pensée spatiale
 
-#### Route Building
+#### Construction d’un itinéraire
 
-- Shortest path
-- Taking obstacles into account
-- Using a random set of command chips
-- Following a given algorithm
-- Choosing the correct route from suggested options
-- Constructing a return route
+- Chemin le plus court
+- En présence d’obstacles
+- À l’aide d’un tirage aléatoire de jetons
+- Selon un algorithme donné
+- Sélection du bon trajet parmi plusieurs propositions
+- Construction de l’itinéraire retour
 
-#### Levels of Difficulty
+#### Niveaux de difficulté
 
-1. Determining the endpoint based on a given route
-2. Choosing the correct route from a list
-3. Identifying the starting point given the endpoint
+1. Déterminer le point d’arrivée selon un itinéraire donné
+2. Choisir le bon itinéraire parmi une liste proposée
+3. Trouver le point de départ connaissant la destination
 
-#### Working With Real Spaces
+#### Travail sur des espaces réels
 
-- Modeling familiar rooms (living rooms, corridors)
-- Planning routes indoors
-- Passing through mazes
+- Modélisation de pièces familières (chambres, couloirs)
+- Planification de trajets dans des locaux
+- Parcours de labyrinthes
 
-### 3. Training Planning Skills
+### 3. Développement des compétences de planification
 
-- Building algorithms for daily actions:
-    - "At the store – following a shopping list"
-    - "Getting ready to go outside – what are my steps?"
-- Using cards with images of items and actions
+- Établir l’algorithme d’actions quotidiennes :
+    - « Je vais au magasin – acheter selon la liste »
+    - « Je me prépare à sortir – quelles sont les étapes ? »
+- Utilisation de cartes illustrant objets et actions
 
-### 4. Training Spatial Memory
+### 4. Entraînement de la mémoire spatiale
 
-- Memorizing and reproducing routes (visually, aurally)
-- Using mnemonic techniques (Method of Loci)
-- Playing "MEMO"-type games:
-    - Finding and memorizing pairs of cards
+- Mémorisation et restitution de trajets (visuellement, auditivement)
+- Utilisation de moyens mnémotechniques (méthode des loci)
+- Jeu de type « MEMO » :
+    - Recherche et mémorisation de paires d’images
 
-### 5. Mathematical Games
+### 5. Jeux mathématiques
 
-- Mathematical mazes – moving across cells with math problems
-- Arithmetic route – repeated addition/subtraction of the same number
+- Labyrinthes mathématiques – déplacements sur des cases avec des calculs
+- Parcours arithmétiques – addition ou soustraction d’un même nombre
 
-### 6. Word Games
+### 6. Jeux de langage
 
-- Searching for proverbs on the field
-- Composing words from scattered letters
-- Creating routes on images with specific sounds
+- Recherche de proverbes sur le plateau
+- Formation de mots à partir de lettres dispersées
+- Création de parcours à travers des images associées à des sons spécifiques
 
-### 7. Pencil Games (Drawing)
+### 7. Jeux graphiques (dessin)
 
-#### Graphic Dictations
+#### Dictées graphiques
 
-- Building an algorithm based on a drawing
-- Completing the symmetrical half
-- Correcting errors in an algorithm
-- Drawing a mirror image
-- Rotating a figure by 90 degrees
-- Creating patterns and ornaments using loops
+- Élaboration d’un algorithme à partir d’un dessin
+- Compléter la moitié symétrique d’une figure
+- Correction d’erreurs dans un algorithme
+- Dessin d’un reflet en miroir
+- Rotation d’une figure à 90 degrés
+- Création de motifs et d’ornements à l’aide de boucles
 
-### 8. Communication Games
+### 8. Jeux de communication
 
-#### Competitive Exercises
+#### Exercices compétitifs
 
-- Collecting the maximum number of bonus chips
-- Playing "Monopoly" with the robot
-- Word game for searching letters
-- "Maze" board game for two players
+- Collecte du plus grand nombre de jetons bonus
+- Jeu type « Monopoly » avec le robot
+- Jeu de lettres
+- Jeu de société « Labyrinthe » pour deux joueurs
 
-## ASSESSING EFFECTIVENESS
+## ÉVALUATION DE L’EFFICACITÉ
 
-### Control Methods
+### Méthodes de suivi
 
-- Regular cognitive function testing
-- Observing the dynamics of task completion
-- Gathering feedback from participants
-- Keeping a logbook of sessions
+- Tests réguliers des fonctions cognitives
+- Observation de la progression lors des exercices
+- Recueil des retours des participants
+- Tenue d’un journal de séances
 
-### Success Criteria
+### Critères de réussite
 
-- Improved task performance indicators
-- Increased complexity of exercises performed
-- Positive subjective assessment from participants
-- Transfer of skills to daily life
+- Amélioration des résultats aux exercices
+- Capacité à effectuer des exercices plus complexes
+- Appréciation positive des participants
+- Transfert des compétences acquises dans la vie quotidienne
 
-## PROGRAM ADAPTATION RECOMMENDATIONS
+## RECOMMANDATIONS POUR L’ADAPTATION DU PROGRAMME
 
-### Individualization
+### Individualisation
 
-- Consider physical limitations
-- Adapt the pace of sessions
-- Modify tasks based on participant interests
-- Develop an individual progression plan
+- Prise en compte des limites physiques
+- Adaptation du rythme des séances
+- Modification des exercices selon les intérêts
+- Établissement d’un plan de progression personnalisé
 
-### Group Work
+### Travail en groupe
 
-- Grouping participants by ability level
-- Including competitive elements
-- Supporting mutual assistance
-- Creating a comfortable social environment
+- Formation de groupes par niveau
+- Introduction d’éléments de compétition
+- Encouragement de l’entraide
+- Création d’un environnement social confortable

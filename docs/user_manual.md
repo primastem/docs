@@ -66,14 +66,9 @@ The main blocks for programming:
 - **Back** - move backward (10 cm by default)
 - **Function** - runs a subprogram from the controller's bottom row
 - **Random Move** - one of the movement actions: Forward, Left, or Right (for the standard distance)
+- **Repeat (Cycle) Chips** - Chips with numbers from 2 to 6 (as dots) and pictograms showing the repeat count. A chip with a die means a random number of repeats from 1 to 6.
 
-> There are also repeat (cycle) chips, number values, and arithmetic symbols for advanced programming-for example, command repetition and distance/angle modification.
-
-#### Repeat (Cycle) Chips
-
-Chips with numbers from 2 to 6 (as dots) and pictograms showing the repeat count.
-
-A chip with a die means a random number of repeats from 1 to 6.
+> There are also number values and arithmetic symbols for advanced programming-for example, command repetition and distance/angle modification.
 
 #### Value Chips
 
