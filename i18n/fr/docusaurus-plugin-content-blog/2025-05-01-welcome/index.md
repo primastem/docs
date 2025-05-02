@@ -1,10 +1,10 @@
 ---
-title: Moving DOCS
+title: Documentation en mouvement
 authors: [chanov]
 tags: [hello, docusaurus]
 ---
 
-We are moved our documentation on [Docusaurus](https://docusaurus.io) - opensource software. Hope that it will be convenient for use.
+Nous sommes déplacés notre documentation sur [Docusaurus](https://docusaurus.io) - opensource software. J'espère que ce sera pratique pour une utilisation.
 
 ![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
 
