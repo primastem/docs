@@ -10,6 +10,8 @@ h1, h2, h3 {
   font-family: 'Gidole', sans-serif;
 }
 
+/* background { linear-gradient(to bottom, #00ab6c 0%, #13cc69 100%); }
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-font-family-base: 'Inter', sans-serif;

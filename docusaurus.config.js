@@ -81,13 +81,24 @@ const config = {
   ],
   
   plugins: [
-    'plugin-image-zoom'
+   'docusaurus-plugin-image-zoom'
   ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      zoomSelector: '.markdown :not(em) > img',
+
+     zoom: {
+      selector: '.markdown :not(em) > img',
+      background: {
+          light: 'rgb(250, 250, 250)',
+          dark: 'rgb(50, 50, 50)'
+      },
+      config: {
+        margin: '10'
+        // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+      }
+    },
 
       // Replace with your project's social card
       image: 'img/primastem-social-card.jpg',
@@ -159,7 +170,6 @@ const config = {
 
     }),
 };
-
 
 export default config;
 

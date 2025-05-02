@@ -58,7 +58,7 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className="container">
         <div className="text--center">
-        <p><a href="https://docs.primastem.com/fr/">Français</a> - <a href="https://docs.primastem.com/">English</a></p>
+        <p><a href="https://docs.primastem.com/fr/">Français</a> | <a href="https://docs.primastem.com/">English</a></p>
        </div>
       </div>
     </section>
