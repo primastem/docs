@@ -46,7 +46,7 @@ const config = {
   },
 },
 
-  presets: [
+  presets: [ 
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
@@ -79,10 +79,16 @@ const config = {
       }),
     ],
   ],
+  
+  plugins: [
+    'plugin-image-zoom'
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      zoomSelector: '.markdown :not(em) > img',
+
       // Replace with your project's social card
       image: 'img/primastem-social-card.jpg',
       navbar: {
@@ -149,7 +155,8 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-      },
+      },      
+
     }),
 };
 
