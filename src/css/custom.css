@@ -10,9 +10,14 @@ h1 {
   font-family: 'Gidole', sans-serif;
 }
 
-h2, h3, h4, h5, h6 {
+h2, h3, h4 {
   font-family: 'Gidole', sans-serif;
 }
+
+.table-of-contents {
+  font-size: 1.0rem; /* или выберите нужное вам значение */
+}
+
 
 /* You can override the default Infima variables here. */
 :root {
