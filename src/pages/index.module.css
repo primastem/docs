@@ -11,6 +11,28 @@
   background: linear-gradient(to bottom, #5aa02c 0%, #76ca3f 100%);
 }
 
+.heroBanner::before {
+  content: '';
+  position: absolute;
+  top: calc(100% - 16px);
+  left: 0;
+  right: 0;
+  background-color: rgba(255, 255, 255, 0.3);
+  height: 92px;
+  transform: skewY(2deg);
+}
+
+.heroBanner::after {
+  content: '';
+  position: absolute;
+  top: calc(100% - 16px);
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.5);
+  height: 92px;
+  transform: skewY(-4deg);
+}
+
+
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
