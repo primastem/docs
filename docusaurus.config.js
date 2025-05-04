@@ -81,7 +81,19 @@ const config = {
   ],
   
   plugins: [
-   'docusaurus-plugin-image-zoom'
+   'docusaurus-plugin-image-zoom',
+       [
+      '@docusaurus/plugin-google-analytics',
+      {
+        trackingID: 'G-QGPVQ44DNN', // Ваш идентификатор потока данных
+        anonymizeIP: true, // Опционально: анонимизация IP-адресов
+      },
+    ],
+  ],
+
+
+  scripts: [
+'mailerlite.js'
   ],
 
   themeConfig:
