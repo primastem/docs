@@ -58,6 +58,7 @@ const config = {
           //  'https://github.com/primastem/docs/tree/main/',
         },
         blog: {
+          
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -70,7 +71,7 @@ const config = {
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          onUntruncatedBlogPosts: 'ignore',
         },
         theme: {
           customCss: './src/css/custom.css',
