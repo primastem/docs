@@ -29,21 +29,22 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  // onBrokenLinks: 'ignore',
-  // onBrokenMarkdownLinks: 'ignore',
+//   onBrokenLinks: 'ignore',
+//   onBrokenMarkdownLinks: 'ignore',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'fr', 'ru'],
     localeConfigs: {
-      en: { label: 'English', },
-      fr: { label: 'Français', },
-      ru: { label: 'Русский', }
-    },
+      en: { label: 'English',},
+      fr: { label: 'Français',},
+      ru: { label: 'Русский',}
   },
+},
 
   presets: [ 
     [
@@ -75,51 +76,43 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-        sitemap: {
-          lastmod: 'date', // Формат даты для тега <lastmod>: 'date' (YYYY-MM-DD)
-          changefreq: 'weekly', // Частота обновления страниц
-          priority: 0.5, // Приоритет страниц (от 0.0 до 1.0)
-          ignorePatterns: ['/tags/**'], // Исключение путей, соответствующих шаблону
-          filename: 'sitemap.xml', // Имя файла карты сайта
-          createSitemapItems: async (params) => {
-            const { defaultCreateSitemapItems, ...rest } = params;
-            const items = await defaultCreateSitemapItems(rest);
-            return items.filter((item) => !item.url.includes('/page/')); // Фильтрация URL с '/page/'
-          },
-        },
+        
       }),
     ],
+
   ],
   
   plugins: [
-    'docusaurus-plugin-image-zoom',
-    [
+   'docusaurus-plugin-image-zoom',
+       [
       '@docusaurus/plugin-google-analytics',
       {
         trackingID: 'G-QGPVQ44DNN', // Ваш идентификатор потока данных
         anonymizeIP: true, // Опционально: анонимизация IP-адресов
       },
     ],
+     
   ],
 
   scripts: [
-    'mailerlite.js'
+'mailerlite.js'
   ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      zoom: {
-        selector: '.markdown :not(em) > img',
-        background: {
+
+     zoom: {
+      selector: '.markdown :not(em) > img',
+      background: {
           light: 'rgb(250, 250, 250)',
           dark: 'rgb(50, 50, 50)'
-        },
-        config: {
-          // margin: '20'
-          // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
-        }
       },
+      config: {
+       // margin: '20'
+        // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+      }
+    },
 
       // Replace with your project's social card
       image: 'img/primastem-social-card.jpg',
@@ -188,7 +181,9 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },      
+
     }),
 };
 
 export default config;
+

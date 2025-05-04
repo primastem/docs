@@ -3,20 +3,20 @@ chanov:
   title: Founder @ PrimaSTEM
   url: https://bio.site/chanov
   image_url: https://media.bio.site/sites/842882f2-856d-437b-a394-01b946e870e6/PH5xapp63RC4sox62Ys8r9.jpg
-  page: true
+  page: false
   socials:
     linkedin: chanov
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
+primastem:
+  name: PrimaSTEM team
+  title: PrimaSTEM team account
+  url: https://primastem.com
+ # image_url: https://github.com/slorber.png
+ # page:
     # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+ #   permalink: '/all-primastem-team-articles'
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+ #   x: primastem
+    linkedin: primastem
+    github: primastem
+ #   newsletter: https://thisweekinreact.com
