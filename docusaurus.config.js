@@ -104,7 +104,7 @@ const config = {
   ],
 
   scripts: [
-    'mailerlite.js'
+    '/js/mailerlite.js'
   ],
 
   themeConfig:
