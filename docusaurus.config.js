@@ -183,7 +183,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} PrimaSTEM. Built with Docusaurus and Gitlocalize.`,
+        copyright: `Copyright © ${new Date().getFullYear()} PrimaSTEM. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
