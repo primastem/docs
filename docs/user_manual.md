@@ -135,7 +135,8 @@ Default settings:
     - b. **For distance calibration**, measure actual movement with the “Forward” command, set the “Calibrate” chip and the required value chip, then press “Execute”. You can record the value to any numeric NFC chip using an NFC-enabled phone as text “nXXX” (e.g., n095 for 95 mm). After this, the robot's movement distance will be accurate.
 - The controller and robot **automatically power off** after 10 minutes of inactivity.
 - If the robot is unused for 1–3 minutes, it makes small movements, indicating that it is working and ready.
-- You can modify or **create your own chips**-commands, numbers, or arithmetic-with an NFC phone and any NFC tag writing app, like “NFC Tools”. Record a 4-character text (e.g., n100 for 100 mm) to a blank NFC chip. Contact us for instructions.
+
+You can modify or **create your own chips**-commands, numbers, or arithmetic-with an NFC phone and any NFC tag writing app, like “NFC Tools”. Record a 4-character text (e.g., n100 for 100 mm) to a blank NFC chip. Contact us for instructions.
 
 PrimaSTEM is a practical tool for learning programming, developing creative thinking and logic.
 
