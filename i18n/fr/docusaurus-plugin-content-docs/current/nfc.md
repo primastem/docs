@@ -5,7 +5,7 @@ sidebar_position: 50
 
 # Jetons-commandes
 
-**Commandes de base (25 pièces)**
+## **Commandes de base (25 pièces)**
 
 | Commande ou Valeur | Quantité | Code NFC |
 | --- | --- | --- |
@@ -23,7 +23,7 @@ sidebar_position: 50
 | Mouvement aléatoire | 1 | crnd |
 | ***Total*** | ***25*** | |
 
-**Commandes et valeurs avancées (67 pièces)**
+## **Commandes et valeurs avancées (67 pièces)**
 
 | Commande ou Valeur | Quantité | Code NFC |
 | --- | --- | --- |
@@ -96,7 +96,7 @@ sidebar_position: 50
 | Définir la longueur de pas par défaut | 1 | clen |
 | ***Total*** | ***67*** | |
 
-**Commandes et opérations supplémentaires possibles**
+## **Commandes et opérations supplémentaires possibles**
 
 | Commande / Valeur | Quantité | Code NFC |
 | --- | --- | --- |
