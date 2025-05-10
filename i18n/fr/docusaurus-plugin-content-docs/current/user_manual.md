@@ -135,7 +135,8 @@ Par défaut :
     - b. **Pour calibrer la distance**, mesurez la trajectoire réelle du robot avec « Avancer », insérez « Calibration » et le jeton-valeur cible, puis « Exécuter ». Une valeur personnalisée peut être inscrite sur n’importe quel jeton NFC numérique à l’aide d’un smartphone compatible NFC, sous la forme nXXX (par ex., n095 pour 95 mm). Le robot adoptera cette nouvelle longueur de pas.
 - La télécommande et le robot **s'éteignent automatiquement** après 10 minutes d’inactivité.
 - Si le robot n’est pas utilisé pendant 1–3 minutes, il effectue de petits mouvements pour indiquer qu’il est prêt à fonctionner.
-- Vous pouvez modifier ou **créer vos propres jetons** (commandes, valeurs numériques ou opérations arithmétiques) via une application NFC comme "NFC Tools". Écrivez une valeur personnalisée sur un jeton NFC numérique vierge à l’aide d’un smartphone NFC, sous forme de 4 caractères. Contactez-nous pour obtenir des instructions.
+
+Vous pouvez modifier ou **créer vos propres jetons** (commandes, valeurs numériques ou opérations arithmétiques) via une application NFC comme "NFC Tools". Écrivez une valeur personnalisée sur un jeton NFC numérique vierge à l’aide d’un smartphone NFC, sous forme de 4 caractères. Contactez-nous pour obtenir des instructions.
 
 PrimaSTEM est un outil pratique pour assimiler la programmation, développer la pensée créative et la logique.
 
