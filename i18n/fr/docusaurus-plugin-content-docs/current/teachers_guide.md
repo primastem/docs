@@ -42,7 +42,8 @@ Les puces de commande PrimaSTEM mettent en œuvre cette approche. L'apprentissag
 En observant le robot, les enfants apprennent la signification de chaque commande en pratiquant des algorithmes en temps réel.
 
 Le robot possède une caractéristique importante : il a une direction, ce qui permet à l'enfant de s'identifier à lui et de comprendre plus facilement la logique fondamentale du fonctionnement des programmes.
-... Toutes les commandes sont simples et claires : elles indiquent exactement dans quelle direction le robot doit se déplacer. Apprendre au robot à "agir" ou à "penser" encourage les enfants à réfléchir à leurs propres actions et pensées, rendant le processus d'apprentissage de la programmation plus efficace.
+
+Toutes les commandes sont simples et claires : elles indiquent exactement dans quelle direction le robot doit se déplacer. Apprendre au robot à "agir" ou à "penser" encourage les enfants à réfléchir à leurs propres actions et pensées, rendant le processus d'apprentissage de la programmation plus efficace.
 
 Les puces PrimaSTEM sont une représentation visuelle et simplifiée des langages de programmation. Au début de l'apprentissage, il n'y a ni texte ni nombres - seulement des commandes de base.
 
