@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Jetons-commandes'
+sidebar_label: 'Jetons commandes'
 sidebar_position: 50
 ---
 
