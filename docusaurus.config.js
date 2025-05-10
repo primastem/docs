@@ -168,7 +168,7 @@ const config = {
               {
                 label: 'Discord',
                 href: 'https://discord.gg/QRZWtpdBQd',
-                position: 'left',
+                position: 'center',
               },
             ],
           },
@@ -178,12 +178,12 @@ const config = {
               {
                 label: 'PrimaSTEM.com',
                 href: 'https://primastem.com',
-                position: 'left',
+                position: 'right',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} PrimaSTEM. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} PrimaSTEM. Built with Docusaurus and Gitlocalize.`,
       },
       prism: {
         theme: prismThemes.github,
