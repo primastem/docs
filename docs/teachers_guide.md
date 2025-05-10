@@ -281,7 +281,9 @@ Draw the children’s attention to the fact that the robot moves a random number
 
 ### Getting to Know Numbers
 
-Without setting numeric values for the commands (above or below the command in the double slot), the robot uses default movement parameters: without parameters, the robot drives forward 10 cm and turns 90°. These values can be changed by using number chips.... Example: add the value **200** to the **"Forward"** command and see how far the robot goes. Add value **180** to the **"turn"** command and observe the changes.
+Without setting numeric values for the commands (above or below the command in the double slot), the robot uses default movement parameters: without parameters, the robot drives forward 10 cm and turns 90°. These values can be changed by using number chips.... 
+
+Example: add the value **200** to the **"Forward"** command and see how far the robot goes. Add value **180** to the **"turn"** command and observe the changes.
 
 ![example1](images/example1.excalidraw.svg)
 
