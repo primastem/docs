@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Jetons commandes'
+sidebar_label: 'Puces de commande'
 sidebar_position: 50
 ---
 
-# Jetons-commandes
+# Puces de Commande
 
 ## **Commandes de base (25 pièces)**
 
@@ -18,12 +18,12 @@ sidebar_position: 50
 | Répéter 4 | 1 | r004 |
 | Répéter 5 | 1 | r005 |
 | Répéter 6 | 1 | r006 |
-| Répéter nombre aléatoire (de 1 à 6) | 1 | rrnd |
+| Répéter Nombre aléatoire (1 à 6) | 1 | rrnd |
 | Fonction | 3 | cfun |
 | Mouvement aléatoire | 1 | crnd |
 | ***Total*** | ***25*** | |
 
-## **Commandes et valeurs avancées (67 pièces)**
+## **Commandes et valeurs étendues (67 pièces)**
 
 | Commande ou Valeur | Quantité | Code NFC |
 | --- | --- | --- |
@@ -32,7 +32,7 @@ sidebar_position: 50
 | Répéter 9 | 1 | r009 |
 | Répéter 10 | 1 | r010 |
 | Répéter 18 | 1 | r018 |
-| Répéter 36 | 1 | r036|
+| Répéter 36 | 1 | r036 |
 | Répéter 72 | 1 | r072 |
 | Répéter 180 | 1 | r180 |
 | Répéter 360 | 1 | r360 |
@@ -91,15 +91,15 @@ sidebar_position: 50
 | X^3 | 1 | e003 |
 | Racine carrée de X | 1 | sqrt |
 | Pause | 1 | cwat |
-| Étiquette NFC vierge | 1 | |
-| Calibration de la distance | 1 | ccal |
+| Étiquette NFC vierge | 1 |  |
+| Calibration de distance | 1 | ccal |
 | Définir la longueur de pas par défaut | 1 | clen |
 | ***Total*** | ***67*** | |
 
-## **Commandes et opérations supplémentaires possibles**
+## **Autres commandes et opérations possibles**
 
 | Commande / Valeur | Quantité | Code NFC |
 | --- | --- | --- |
 | Factorielle | 1 | fact |
 | Échantillon sonore | 1 | csou |
-| Clignoter avec les LED pendant 1 sec. | 1 | cldX, où X = couleur rgb |
+| Clignotement des LEDs pendant 1 sec. | 1 | cldX, où X = couleur rgb |
