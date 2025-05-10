@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Guide de l’enseignant'
-sidebar_position: 30
+sidebar_label: Guide de l’enseignant
+sidebar_position: '30'
 ---
 
 # Guide de l'Enseignant
@@ -130,7 +130,7 @@ Fixez l'objectif à deux cellules devant le robot.
 
 Demandez à l'enfant de composer un programme de deux jetons pour atteindre l'objectif.
 
-![forvard*2](images/guide2a.excalidraw.svg)
+![forvard*2](images/guide3a.excalidraw.svg)
 
 ### Séquence de Trois Jetons
 
@@ -140,7 +140,7 @@ Cette fois, l'objectif est une cellule en avant et une à droite.
 
 Invitez l'enfant à sélectionner la bonne séquence de commandes.
 
-![forvard-right-forvard](images/guide2b.excalidraw.svg)
+![forvard-right-forvard](images/guide2a.excalidraw.svg)
 
 Ne vous inquiétez pas si l'enfant choisit le mauvais jeton. Il suffit de ramener le robot à sa position initiale et de suggérer de réfléchir au choix et de réessayer.
 
@@ -158,7 +158,7 @@ Demandez à l'enfant de prédire quelle commande dans le programme est incorrect
 
 Après que l'enfant se soit rendu compte que la séquence était incorrecte - soit par raisonnement, soit par vérification - laissez-le changer la commande erronée en commande correcte, débogant ainsi le programme.
 
-![forvard-left-forvard](images/guide2с.excalidraw.svg)
+![forvard-left-forvard](images/guide2%D1%81.excalidraw.svg)
 
 ## 3 – Programme avec Fonction
 
@@ -178,7 +178,7 @@ Maintenant, placez les mêmes deux jetons "En avant" dans la fonction (rangée i
 
 Ensuite, créez la séquence : **En avant – En avant – Droite – En avant – En avant**.
 
-![forvard*2-right-forvard*2](images/guide3c.excalidraw.svg)
+![forvard2-right-forvard2](images/guide3c.excalidraw.svg)
 
 Demandez aux enfants de trouver les sections répétitives et de les "cacher" dans une fonction. La séquence finale : dans la section principale - **Fonction – Droite – Fonction** ; en bas - **En avant – En avant**.
 
@@ -286,9 +286,7 @@ Exemple : ajoutez la valeur **200** à la commande **"En avant"** et voyez jusqu
 
 ![example1](images/example1.excalidraw.svg)
 
-> **Important :** Le contrôleur enregistre la dernière valeur définie pour les commandes de mouvement et de rotation.
-Si une commande est utilisée sans nouvelle valeur, la dernière valeur enregistrée est appliquée jusqu'à ce que le contrôleur s'éteigne.
-Définir une nouvelle valeur modifie le paramètre par défaut. Les valeurs par défaut (100 mm et 90°) peuvent être restaurées en les définissant explicitement ou en redémarrant le contrôleur.
+> **Important :** Le contrôleur enregistre la dernière valeur définie pour les commandes de mouvement et de rotation. Si une commande est utilisée sans nouvelle valeur, la dernière valeur enregistrée est appliquée jusqu'à ce que le contrôleur s'éteigne. Définir une nouvelle valeur modifie le paramètre par défaut. Les valeurs par défaut (100 mm et 90°) peuvent être restaurées en les définissant explicitement ou en redémarrant le contrôleur.
 
 La modification des paramètres permet des trajectoires et des scénarios de mouvement plus complexes. Voir des exemples sur la [page des dessins mathématiques](math_drawings.md).
 
