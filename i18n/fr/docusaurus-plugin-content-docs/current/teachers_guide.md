@@ -140,7 +140,7 @@ Cette fois, l'objectif est une cellule en avant et une à droite.
 
 Invitez l'enfant à sélectionner la bonne séquence de commandes.
 
-![forvard-right-forvard](images/guide2a.excalidraw.svg)
+![forvard-right-forvard](images/guide3a.excalidraw.svg)
 
 Ne vous inquiétez pas si l'enfant choisit le mauvais jeton. Il suffit de ramener le robot à sa position initiale et de suggérer de réfléchir au choix et de réessayer.
 
