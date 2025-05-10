@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Guide de l'Enseignant'
+sidebar_label: 'Guide de l’enseignant'
 sidebar_position: 30
 ---
 
