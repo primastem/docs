@@ -162,7 +162,7 @@ const config = {
               },
               {
                 label: 'Update Firmware',
-                to: 'https://primastem.github.io/update/',
+                to: 'https://primastem.github.io/update',
                 position: 'left',
               },
             ],
