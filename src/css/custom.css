@@ -11,9 +11,12 @@ h1, h2, h3 {
 }
 
 .table-of-contents {
-  font-size: 1.0rem; /* или выберите нужное вам значение */
+  font-size: 1.0rem; /* выберите значение */
 }
 
+.footer__copyright {
+  font-size: 0.8rem; 
+}
 
 /* You can override the default Infima variables here. */
 :root {
