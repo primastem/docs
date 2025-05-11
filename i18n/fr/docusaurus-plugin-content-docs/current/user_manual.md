@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Description et mode d’emploi'
-sidebar_position: 20
+sidebar_label: Description et mode d’emploi
+sidebar_position: '20'
 ---
 
 # Description et mode d’emploi
@@ -36,8 +36,7 @@ Dimensions : L=310 mm, l=210 mm, H=52 mm.
 
 ![control](images/photo_29_2025-02-10_17-39-32.png)
 
-La télécommande dispose de 11 emplacements doubles pour insérer les jetons : 6 pour le programme principal (ligne supérieure), 5 pour la sous-programme (ligne inférieure).
-Deux boutons sont présents : à gauche pour l’alimentation, à droite pour « Exécuter/Arrêter » le programme.
+La télécommande dispose de 11 emplacements doubles pour insérer les jetons : 6 pour le programme principal (ligne supérieure), 5 pour la sous-programme (ligne inférieure). Deux boutons sont présents : à gauche pour l’alimentation, à droite pour « Exécuter/Arrêter » le programme.
 
 Après insertion des jetons, appuyez sur « Exécuter » : le robot exécutera la séquence programmée. Les LED entre les emplacements indiquent les étapes actives.
 
@@ -49,8 +48,8 @@ La télécommande possède un port USB-C pour la recharge et un haut-parleur.
 
 Dimensions : LxL(D)=30 mm.
 
-Le kit comporte des jetons pour composer des programmes.  
-Chaque jeton correspond à une commande claire ou une valeur. L’ordre des jetons détermine le comportement du robot.
+Le kit comporte des jetons pour composer des programmes.
+ Chaque jeton correspond à une commande claire ou une valeur. L’ordre des jetons détermine le comportement du robot.
 
 ![coding chips](images/Image16.jpg)
 
@@ -72,9 +71,9 @@ Principaux blocs pour la programmation du robot :
 
 #### Jetons-valeurs
 
-Jetons d’angles et de distances : 30°, 36°, 45°, ainsi que d’autres multiples (60°, 72°, etc.).  
-Les angles sont exprimés en degrés, les distances en millimètres.  
-Par défaut : 90° et 100 mm (10 cm).
+Jetons d’angles et de distances : 30°, 36°, 45°, ainsi que d’autres multiples (60°, 72°, etc.).
+ Les angles sont exprimés en degrés, les distances en millimètres.
+ Par défaut : 90° et 100 mm (10 cm).
 
 #### Jetons d’opérations arithmétiques
 
@@ -101,12 +100,11 @@ En cas d’absence de connexion, redémarrez les deux appareils ou rechargez-les
 
 ## Comment ça marche ?
 
-Pour programmer un déplacement, insérez les jetons-commandes (par exemple, « Avancer », « Gauche », « Fonction », etc.) dans les emplacements de la télécommande.
-Vous pouvez également insérer des valeurs de commande, nombres de répétitions, angles, distances et opérations arithmétiques.
+Pour programmer un déplacement, insérez les jetons-commandes (par exemple, « Avancer », « Gauche », « Fonction », etc.) dans les emplacements de la télécommande. Vous pouvez également insérer des valeurs de commande, nombres de répétitions, angles, distances et opérations arithmétiques.
 
 Les emplacements doubles permettent d’associer une commande à une valeur ou un répétiteur, avec des indicateurs lumineux.
 
-  *Exemple ci-dessous : un programme utilisant une boucle pour répéter le même code, permettant au robot de parcourir un carré :*
+*Exemple ci-dessous : un programme utilisant une boucle pour répéter le même code, permettant au robot de parcourir un carré :*
 
 ![control with chips](images/manual1a.excalidraw.svg)
 
@@ -116,7 +114,8 @@ L’ordre des jetons détermine la trajectoire du robot.
 
 Appuyez sur « Exécuter » pour démarrer le programme.
 
-Par défaut :  
+Par défaut :
+
 - « Avancer » : 10 cm.
 - « Gauche/Droite » : 90°.
 - Les boucles (répétitions) permettent de réaliser plusieurs fois une commande.
@@ -136,11 +135,11 @@ Par défaut :
 - La télécommande et le robot **s'éteignent automatiquement** après 10 minutes d’inactivité.
 - Si le robot n’est pas utilisé pendant 1–3 minutes, il effectue de petits mouvements pour indiquer qu’il est prêt à fonctionner.
 
-Vous pouvez modifier ou **créer vos propres jetons** (commandes, valeurs numériques ou opérations arithmétiques) via une application NFC comme "NFC Tools". Écrivez une valeur personnalisée sur un jeton NFC numérique vierge à l’aide d’un smartphone NFC, sous forme de 4 caractères. Contactez-nous pour obtenir des instructions.
-
-PrimaSTEM est un outil pratique pour assimiler la programmation, développer la pensée créative et la logique.
+Vous pouvez modifier ou **créer vos propres puces** (commandes, nombres ou arithmétiques) avec un téléphone NFC et n'importe quelle application d'écriture de tags NFC, comme « NFC Tools ». Enregistrez un texte de 4 caractères (par exemple, n100 pour 100 mm) sur une puce NFC vierge. Contactez-nous pour obtenir des instructions.
 
 Plus d’informations sur les fonctionnalités dans le **Guide de l’enseignant**.
+
+Consultez le **Guide de l'enseignant** pour plus de détails sur les fonctionnalités.
 
 ## Important !
 
