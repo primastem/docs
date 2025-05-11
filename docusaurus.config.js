@@ -113,8 +113,8 @@ const config = {
       zoom: {
         selector: '.markdown :not(em) > img',
         background: {
-          light: 'rgb(250, 250, 250)',
-          dark: 'rgb(50, 50, 50)'
+          light: 'rgb(230, 230, 230)',
+          dark: 'rgb(70, 70, 70)'
         },
         config: {
           // margin: '20'
@@ -160,6 +160,11 @@ const config = {
                 to: '/docs/intro',
                 position: 'left',
               },
+              {
+                label: 'Update Firmware',
+                to: 'https://primastem.github.io/update/',
+                position: 'left',
+              },
             ],
           },
           {
@@ -178,6 +183,11 @@ const config = {
               {
                 label: 'PrimaSTEM.com',
                 href: 'https://primastem.com',
+                position: 'right',
+              },
+                            {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@primastem',
                 position: 'right',
               },
             ],
