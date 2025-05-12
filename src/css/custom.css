@@ -15,6 +15,11 @@ h4, h5, h6 {
   text-wrap: balance;
 }
 
+.button--secondary {
+  font-style: normal;
+  font-weight: normal;
+}
+
 .table-of-contents {
   font-size: 1.0rem; /* выберите значение */
 }
