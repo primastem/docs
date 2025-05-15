@@ -51,7 +51,7 @@ PrimaSTEM chips are a visual and simplified representation of programming langua
 
 ### Why Wood?
 
-The controller and robot are made of wood. Practice has shown that children prefer playing with wooden toys-they are safe, durable, and create a sense of personal history in use.
+🌱 The controller and robot are made of wood. Practice has shown that children prefer playing with wooden toys-they are safe, durable, and create a sense of personal history in use.
 
 ## Programming Concepts With PrimaSTEM
 

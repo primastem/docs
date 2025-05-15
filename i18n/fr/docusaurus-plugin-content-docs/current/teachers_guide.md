@@ -50,7 +50,7 @@ Les jetons PrimaSTEM sont une représentation visuelle et simplifiée des langag
 
 ### Pourquoi le Bois?
 
-Le contrôleur et le robot sont fabriqués en bois. La pratique a montré que les enfants préfèrent jouer avec des jouets en bois - ils sont sûrs, durables et créent un sentiment d'histoire personnelle lors de leur utilisation.
+🌱 Le contrôleur et le robot sont fabriqués en bois. La pratique a montré que les enfants préfèrent jouer avec des jouets en bois - ils sont sûrs, durables et créent un sentiment d'histoire personnelle lors de leur utilisation.
 
 ## Concepts de Programmation avec PrimaSTEM
 
