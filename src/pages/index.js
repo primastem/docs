@@ -39,8 +39,7 @@ export default function Home() {
   return (
     <Layout
       title={`PrimaSTEM documentation - ${siteConfig.title}`}
-      description="Your wooden programmable robot, screen-free coding from age 4.
-Learn math and logic through play!">
+      description="Your wooden programmable robot, screen-free coding from age 4. Learn math and logic through play!">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

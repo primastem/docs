@@ -4,7 +4,7 @@
  * work well for content-centric websites.
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Comforter&family=Gidole&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Gidole&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+Display:ital,wght@0,100..900;1,100..900&family=Noto+Sans+Mono:wght@100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik+Doodle+Shadow&display=swap');
 
 h1, h2, h3 {
   font-family: 'Gidole', system-ui, sans-serif;
@@ -30,7 +30,7 @@ h4, h5, h6 {
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-font-family-base: 'Inter', system-ui, sans-serif;
+  --ifm-font-family-base: 'Noto Sans Display', system-ui, sans-serif;
   --ifm-color-primary: #5aa02c;
   --ifm-color-primary-dark: #519028;
   --ifm-color-primary-darker: #4d8825;
@@ -44,7 +44,7 @@ h4, h5, h6 {
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-font-family-base: 'Inter', system-ui, sans-serif;
+  --ifm-font-family-base: 'Noto Sans Display', system-ui, sans-serif;
   --ifm-color-primary: #5aa02c;
   --ifm-color-primary-dark: #519028;
   --ifm-color-primary-darker: #4d8825;

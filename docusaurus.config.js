@@ -52,6 +52,8 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          // sidebarCollapsible: true,
+          
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //editUrl:
@@ -125,6 +127,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/primastem-social-card.jpg',
       navbar: {
+        hideOnScroll: true,
         title: 'docs.PrimaSTEM.com',
         logo: {
           alt: 'Logo',
