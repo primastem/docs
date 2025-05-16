@@ -112,17 +112,24 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      zoom: {
+
+    docs: {
+      sidebar: {
+        hideable: true,
+      },
+    },
+
+    zoom: {
         selector: '.markdown :not(em) > img',
         background: {
-          light: 'rgb(230, 230, 230)',
-          dark: 'rgb(70, 70, 70)'
+          light: 'rgb(125, 125, 125)',
+          dark: 'rgb(50, 50, 50)'
         },
         config: {
           // margin: '20'
           // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
         }
-      },
+    },
 
       // Replace with your project's social card
       image: 'img/primastem-social-card.jpg',
