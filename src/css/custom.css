@@ -40,6 +40,7 @@ h4, h5, h6 {
   --ifm-color-primary-lightest: #76ca3f;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-background-color: #fafafa;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -52,6 +53,8 @@ h4, h5, h6 {
   --ifm-color-primary-light: #63b030;
   --ifm-color-primary-lighter: #68b833;
   --ifm-color-primary-lightest: #76ca3f;
+  --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-background-color: #1c1c1c;
 }
 

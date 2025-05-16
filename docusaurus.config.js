@@ -100,7 +100,7 @@ const config = {
       '@docusaurus/plugin-google-analytics',
       {
         trackingID: 'G-QGPVQ44DNN', // Ваш идентификатор потока данных
-        anonymizeIP: true, // Опционально: анонимизация IP-адресов
+        anonymizeIP: false, // Опционально: анонимизация IP-адресов
       },
     ],
   ],
