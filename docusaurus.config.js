@@ -113,13 +113,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
 
-    docs: {
-      sidebar: {
-        hideable: true,
-      },
+       colorMode: {
+      // defaultMode: 'light',
+      disableSwitch: false,
+      respectPrefersColorScheme: true,
     },
 
-    zoom: {
+       docs: {
+        sidebar: {
+        hideable: true,
+      },
+             },
+
+       zoom: {
         selector: '.markdown :not(em) > img',
         background: {
           light: 'rgb(125, 125, 125)',
@@ -129,10 +135,11 @@ const config = {
           // margin: '20'
           // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
         }
-    },
+              },
 
       // Replace with your project's social card
       image: 'img/primastem-social-card.jpg',
+
       navbar: {
         hideOnScroll: true,
         title: 'docs.PrimaSTEM.com',
@@ -158,7 +165,7 @@ const config = {
             position: 'right',
           },
         ],
-      },
+               },
       footer: {
         style: 'light',
         links: [
@@ -204,11 +211,11 @@ const config = {
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} PrimaSTEM. Built with Docusaurus.`,
-      },
+               },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-      },      
+              },      
     }),
 };
 
