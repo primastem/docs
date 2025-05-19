@@ -29,6 +29,7 @@ h4, h5, h6 {
 }
 
 /* You can override the default Infima variables here. */
+
 :root {
   --ifm-font-family-base: 'Noto Sans Display', system-ui, sans-serif;
   --ifm-color-primary: #5aa02c;
@@ -40,10 +41,21 @@ h4, h5, h6 {
   --ifm-color-primary-lightest: #76ca3f;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --ifm-background-color: #fafafa;
+
+}
+
+html[data-theme='light'] {
+  --background-color: #fafafa;
+  --ifm-background-color: var(--background-color);
+}
+
+html[data-theme='dark'] {
+  --background-color: #303030;
+  --ifm-background-color: var(--background-color);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
+
 [data-theme='dark'] {
   --ifm-font-family-base: 'Noto Sans Display', system-ui, sans-serif;
   --ifm-color-primary: #5aa02c;
@@ -55,6 +67,5 @@ h4, h5, h6 {
   --ifm-color-primary-lightest: #76ca3f;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-  --ifm-background-color: #1c1c1c;
-}
 
+}
