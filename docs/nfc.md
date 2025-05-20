@@ -90,8 +90,8 @@ sidebar_position: 50
 | X^2 | 1 | e002 |
 | X^3 | 1 | e003 |
 | Square root of X | 1 | sqrt |
-| Pause | 1 | cwat |
-| Blank NFC tag | 1 |  |
+| Pause | 1 | cwat 
+| Blank NFC tag | 1 |  
 | Distance calibration | 1 | ccal |
 | Set default step length | 1 | clen |
 | ***Total*** | ***67*** | |
