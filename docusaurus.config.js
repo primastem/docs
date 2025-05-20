@@ -95,6 +95,7 @@ const config = {
   ],
   
   plugins: [
+    'docusaurus-plugin-llms',
     'docusaurus-plugin-image-zoom',
     [
       '@docusaurus/plugin-google-analytics',
