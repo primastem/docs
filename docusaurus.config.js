@@ -107,7 +107,8 @@ const config = {
   ],
 
   scripts: [
-    {src: '/js/mailerlite.js', async: true}
+    {src: '/js/mailerlite.js', async: true},
+    {src: '/js/clarity.js', async: true}
   ],
 
   themeConfig:
