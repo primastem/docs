@@ -7,7 +7,7 @@ sidebar_position: 10
 
 **PrimaSTEM** - un outil pour enseigner aux enfants dès 4 ans les bases de la programmation, de la logique et des mathématiques sans appareils à écran.
 
-![PrimaSTEM](images/main_04.jpg)
+![PrimaSTEM](images/main_04.png)
 
 *Télécommande, blocs de programmation, robot et résultats d'exécution du code.*
 
