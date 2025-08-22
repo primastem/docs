@@ -101,4 +101,4 @@ sidebar_position: 50
 | --- | --- | --- |
 | Factorielle | 1 | fact |
 | Échantillon sonore | 1 | csou |
-| Clignotement des LEDs pendant 1 sec. | 1 | cldX, où X = couleur rgb |
+

@@ -101,4 +101,4 @@ sidebar_position: 50
 | --- | --- | --- |
 | Factorial | 1 | fact |
 | Sound sample | 1 | csou |
-| Blink LEDs for 1 sec. | 1 | cldX, where X = rgb color |
+
