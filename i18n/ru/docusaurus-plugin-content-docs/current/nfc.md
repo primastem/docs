@@ -102,3 +102,33 @@ X^3 | 1 | e003
 Факториал | 1 | fact
 Звуковой семпл | 1 | csou
 
+## **Как записать данные на NFC-метку**
+
+Вы можете создать собственный токен — просто запишите текстовый код на NFC-метку. Можно использовать любые числа (от 0 до 999), любые повторения и любые числа для арифметических операций.
+
+Чтобы записать текстовые данные на NFC-метку, откройте Google Play Store и установите приложение **RFID NFC Reader** или **NFC Tools** на свой телефон.
+
+Инструкция по записи NFC-метки находится здесь — [youtu.be/UbKaQxZs8JA](https://youtu.be/UbKaQxZs8JA)
+
+<div
+  style={{
+    position: 'relative',
+    paddingBottom: '56.25%',
+    height: 0,
+    overflow: 'hidden',
+  }}
+>
+  <iframe
+    src="https://www.youtube.com/embed/UbKaQxZs8JA?si=WT8wWYBe_Ql7TovQ"
+    style={{
+      position: 'absolute',
+      top: 0,
+      left: 0,
+      width: '100%',
+      height: '100%',
+    }}
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  />
+</div>

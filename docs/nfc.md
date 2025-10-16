@@ -102,13 +102,13 @@ sidebar_position: 50
 | Factorial | 1 | fact |
 | Sound sample | 1 | csou |
 
-## How to Write Data to NFC tag
+## **How to Write Data to NFC tag**
 
 You can do self token just write text code of to NFC token. You can do any numbers (from 0 to 999), any repeats and any numbers for arithmetic.
 
 For writing text Data to NFC token please go to Android Play Store and install **RFID NFC Reader** or **NFC Tools** at your phone.
 
-**Instruction about writing NFC tag here -** [youtu.be/UbKaQxZs8JA](https://youtu.be/UbKaQxZs8JA)
+Instruction about writing NFC tag here - [youtu.be/UbKaQxZs8JA](https://youtu.be/UbKaQxZs8JA)
 
 <div
   style={{
