@@ -101,4 +101,35 @@ sidebar_position: 50
 | --- | --- | --- |
 | Factorial | 1 | fact |
 | Sound sample | 1 | csou |
-| Blink LEDs for 1 sec. | 1 | cldX, where X = rgb color |
+
+## **How to Write Data to NFC tag**
+
+You can do self token just write text code of to NFC token. You can do any numbers (from 0 to 999), any repeats and any numbers for arithmetic.
+
+For writing text Data to NFC token please go to Android Play Store and install **RFID NFC Reader** or **NFC Tools** at your phone.
+
+Instruction about writing NFC tag here - [youtu.be/UbKaQxZs8JA](https://youtu.be/UbKaQxZs8JA)
+
+<div
+  style={{
+    position: 'relative',
+    paddingBottom: '56.25%',
+    height: 0,
+    overflow: 'hidden',
+  }}
+>
+  <iframe
+    src="https://www.youtube.com/embed/UbKaQxZs8JA?si=WT8wWYBe_Ql7TovQ"
+    style={{
+      position: 'absolute',
+      top: 0,
+      left: 0,
+      width: '100%',
+      height: '100%',
+    }}
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  />
+</div>
+

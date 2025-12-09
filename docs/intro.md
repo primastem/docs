@@ -7,7 +7,7 @@ sidebar_position: 10
 
 **PrimaSTEM** is a tool for teaching children from age 4 the basics of programming, logic, and mathematics without screen devices.
 
-![PrimaSTEM](images/main_04.jpg)
+![PrimaSTEM](images/main_04.png)
 
 *Controller, programming blocks, robot, and program execution results.*
 
